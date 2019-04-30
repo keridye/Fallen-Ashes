@@ -1,0 +1,68 @@
+definitions = "definition.csv"
+provinces = "provinces.bmp"
+positions = "positions.txt"
+terrain = "terrain.bmp"
+rivers = "rivers.bmp"
+topology = "heightmap.heightmap"
+adjacencies = "adjacencies.csv"
+areas = "areas.txt"
+regions = "regions.txt"
+ports = "ports.csv"
+climate = "climate.txt"
+
+#Seazones, list:
+sea_zones = LIST { 4614 4783 4952 4954 5020 6469 6506 6519 7645 7665 }
+#Seazones, Ranges:
+sea_zones = RANGE { 2500 2542 }
+sea_zones = RANGE { 2544 2987 }
+sea_zones = RANGE { 652 654 }
+sea_zones = RANGE { 1473 1499 }
+sea_zones = RANGE { 4722 4749 }
+sea_zones = RANGE { 5670 5865 }
+sea_zones = RANGE { 4589 4599 }
+
+#Wastelands, List:
+wasteland = LIST { 3222 5020 6044 6046 6064 6300 6482 7279 7298 7299 5981 }				#impassable - will never be colored in any map mode
+wasteland = RANGE { 5935 5967 }
+wasteland = RANGE { 5969 5976 }
+wasteland = RANGE { 5984 5992 }
+wasteland = RANGE { 6048 6049 }
+wasteland = RANGE { 7640 7644 } 
+
+#Impassables, Ranges:
+impassable_terrain = RANGE { 5000 5019 }	#impassable - will get neighboring provinces' color in some map modes
+impassable_terrain = RANGE { 5021 5382 }
+impassable_terrain = RANGE { 5384 5389 }
+impassable_terrain = RANGE { 5447 5448 }
+impassable_terrain = RANGE { 5882 5883 }
+impassable_terrain = RANGE { 5977 5980 }
+impassable_terrain = RANGE { 5993 5999 }
+impassable_terrain = RANGE { 6050 6063 }
+impassable_terrain = RANGE { 7282 7297 }
+#Impassables, List:
+impassable_terrain = LIST { 3316 5934 5968 6045 6483 6488 6493 6494 6495 6496 6497 6498 6499 7357 7280 7281 7646 7647 7648 7649 }
+
+
+#Uninhabitables, Ranges:
+uninhabitable = RANGE { 7541 7558 }
+uninhabitable = RANGE { 5602 5604 }
+uninhabitable = RANGE { 7561 7573 }
+uninhabitable = RANGE { 5399 5407 }
+uninhabitable = RANGE { 5411 5414 }
+uninhabitable = RANGE { 5438 5446 }
+uninhabitable = RANGE { 5449 5450 }
+uninhabitable = RANGE { 7246 7262 }
+uninhabitable = RANGE { 5665 5669 }
+#Uninhabitables, List:
+uninhabitable = LIST { 5436 7269 7272 }
+
+#Lakes, Ranges:
+lakes = RANGE { 5982 5983 }
+lakes = RANGE { 6303 6468 }
+lakes = RANGE { 7661 7664 }
+lakes = RANGE { 4569 4588 } #Caspian
+lakes = RANGE { 2988 2999 } #Caspian
+
+#Lakes, List:
+lakes = LIST { 6299 }
+
