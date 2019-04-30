@@ -2160,15 +2160,15 @@
 2159,aremorican,druidism,woad,0,1,0,4,15,0,Goelloria,Osisimia
 2160,aremorican,druidism,fish,0,1,0,4,15,0,Leonitia,Osisimia
 2161,hibernian,druidism,base_metals,0,0,0,3,5,0,Bantry,Hibernia Meridionalis
-2162,hibernian,druidism,wood,0,0,0,2,5,0,Usdia Occidentalis,Hibernia Meridionalis
+2162,hibernian,druidism,wood,0,0,0,2,5,0,Cork,Hibernia Meridionalis
 2163,hibernian,druidism,base_metals,0,0,0,2,5,0,Macroom,Hibernia Meridionalis
-2164,hibernian,druidism,fur,0,0,0,2,5,0,Brigantia Borealis,Hibernia Orientalis
+2164,hibernian,druidism,fur,0,0,0,2,5,0,Portlaoise,Hibernia Orientalis
 2165,hibernian,druidism,fish,0,0,0,4,5,0,Wicklow,Hibernia Orientalis
 2166,hibernian,druidism,wood,0,0,0,3,5,0,Loughreaa,Hibernia Occidentalis
-2167,hibernian,druidism,woad,0,0,0,2,5,0,Manapia Borealis,Hibernia Orientalis
-2168,hibernian,druidism,wood,0,0,0,4,5,0,Caucia,Hibernia Orientalis
+2167,hibernian,druidism,woad,0,0,0,2,5,0,Navan,Hibernia Orientalis
+2168,hibernian,druidism,wood,0,0,0,4,5,0,Cavan,Hibernia Orientalis
 2169,hibernian,druidism,fish,0,0,0,2,5,0,Castlebar Australis,Hibernia Occidentalis
-2170,hibernian,druidism,fur,0,0,0,4,5,0,Eblania,Hibernia Septentrionalis
+2170,hibernian,druidism,fur,0,0,0,4,5,0,Monaghan,Hibernia Septentrionalis
 2171,hibernian,druidism,salt,0,0,0,2,5,0,Nagnatia Vesperis,Hibernia Septentrionalis
 2172,hibernian,druidism,leather,0,0,0,3,5,0,Cookstown,Hibernia Septentrionalis
 2173,hibernian,druidism,fish,0,0,0,2,5,0,Darinia Borealis,Hibernia Septentrionalis
@@ -2183,28 +2183,28 @@
 2182,hibernian,druidism,cattle,0,0,0,2,5,0,Newcastle,Hibernia Meridionalis
 2183,hibernian,druidism,hemp,0,0,0,2,5,0,Loughreaa Ortus,Hibernia Meridionalis
 2184,hibernian,druidism,wood,0,0,0,4,5,0,Ballinasloe,Hibernia Occidentalis
-2185,hibernian,druidism,wood,0,0,0,2,5,0,Loughreaa Orientalis,Hibernia Occidentalis
+2185,hibernian,druidism,wood,0,0,0,2,5,0,Birr,Hibernia Occidentalis
 2186,hibernian,druidism,fish,0,0,0,5,5,0,Waterford,Hibernia Orientalis
-2187,hibernian,druidism,precious_metals,0,0,0,6,5,0,Brigantia,Hibernia Orientalis
+2187,hibernian,druidism,precious_metals,0,0,0,6,5,0,Kilkenny,Hibernia Orientalis
 2188,hibernian,druidism,cattle,0,0,0,2,5,0,Wicklow Australis,Hibernia Orientalis
-2189,hibernian,druidism,horses,0,0,0,2,5,0,Wicklow Borealis,Hibernia Orientalis
+2189,hibernian,druidism,horses,0,0,0,2,5,0,Tullow,Hibernia Orientalis
 2190,hibernian,druidism,fur,0,0,0,2,5,0,Dublin,Hibernia Orientalis
-2191,hibernian,druidism,stone,0,0,0,2,5,0,Manapia Vesperis,Hibernia Occidentalis
-2192,hibernian,druidism,grain,0,0,0,3,5,0,Manapia Australis,Hibernia Orientalis
+2191,hibernian,druidism,stone,0,0,0,2,5,0,Athlone,Hibernia Occidentalis
+2192,hibernian,druidism,grain,0,0,0,3,5,0,Tullamore,Hibernia Orientalis
 2193,hibernian,druidism,fur,0,0,0,2,5,0,Dindalk,Hibernia Orientalis
-2194,hibernian,druidism,fur,0,0,0,2,5,0,Caucia Vesperis,Hibernia Occidentalis
+2194,hibernian,druidism,fur,0,0,0,2,5,0,Longford,Hibernia Occidentalis
 2195,hibernian,druidism,cattle,0,0,0,3,5,0,Newry,Hibernia Septentrionalis
-2196,hibernian,druidism,hemp,0,0,0,2,5,0,Eblania Vesperis,Hibernia Occidentalis
+2196,hibernian,druidism,hemp,0,0,0,2,5,0,Ballyconell,Hibernia Occidentalis
 2197,hibernian,druidism,fur,0,0,0,2,5,0,Ballina,Hibernia Occidentalis
-2198,hibernian,druidism,horses,0,0,0,2,5,0,Castlebar Orientalis,Hibernia Occidentalis
+2198,hibernian,druidism,horses,0,0,0,2,5,0,Swinford,Hibernia Occidentalis
 2199,hibernian,druidism,cattle,0,0,0,5,5,0,Castlebar,Hibernia Occidentalis
 2200,hibernian,druidism,salt,0,0,0,4,5,0,Clifden,Hibernia Occidentalis
-2201,hibernian,druidism,horses,0,0,0,2,5,0,Nagnatia Australis,Hibernia Occidentalis
+2201,hibernian,druidism,horses,0,0,0,2,5,0,Roscommon,Hibernia Occidentalis
 2202,hibernian,druidism,grain,0,0,0,2,5,0,Nagnatia Orientalis,Hibernia Septentrionalis
 2203,hibernian,druidism,fish,0,0,0,2,5,0,Letterkenny,Hibernia Septentrionalis
 2204,hibernian,druidism,grain,0,0,0,2,5,0,Dungloe,Hibernia Septentrionalis
 2205,hibernian,druidism,cattle,0,0,0,2,5,0,Omagh,Hibernia Septentrionalis
-2206,hibernian,druidism,horses,0,0,0,2,5,0,Voluntia Borealis,Hibernia Septentrionalis
+2206,hibernian,druidism,horses,0,0,0,2,5,0,Cranagh,Hibernia Septentrionalis
 2207,hibernian,druidism,fish,0,0,0,2,5,0,Robogdia Orientalis,Hibernia Septentrionalis
 2208,hibernian,druidism,cattle,0,0,0,2,5,0,Darinia Australis,Hibernia Septentrionalis
 2209,aulercian,druidism,iron,0,1,0,3,15,0,Sipia Occidentalis,Armorica
