@@ -11814,19 +11814,6 @@ country = {
 			}
 		}
 		
-		ULT = {
-			government = tribal_kingdom
-			primary_culture = hibernian
-			religion = druidism
-			centralization=25
-
-			capital = 2195
-
-			own_control_core = 	{
-				2195 2208
-			}
-		}
-		
 		CAT = {
 			government = tribal_kingdom
 			primary_culture = cantian
@@ -17385,6 +17372,8 @@ country = {
 			}
 		}
 		
+		# IRISH #
+		
 		DUB = {
 			government = aristocratic_republic
 			primary_culture = irish
@@ -17393,7 +17382,7 @@ country = {
 			capital = 2190
 			
 			own_control_core = {
-				2190 2193 2165
+				2190 2193 2165 
 			}
 		}
 		
@@ -17405,7 +17394,7 @@ country = {
 			capital = 2169
 			
 			own_control_core = {
-				2169 2200 2199 2197 2171 2198
+				2169 2200 2199 2197 2171 2198 2184 2201
 			}
 		}	
 
@@ -17417,10 +17406,58 @@ country = {
 			capital = 2173
 			
 			own_control_core = {
-				2173 2207 2172
+				2173 2172 2195 2208 
+			}
+		}
+		 
+		ULS = { #Ulster
+			government = aristocratic_monarchy
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2175
+			
+			own_control_core = {
+				2175 2202 2204 2203 2196
 			}
 		}
 
+		COR = {
+			government = aristocratic_monarchy
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2162
+			
+			own_control_core = {
+				2162 2177 2161 2178 2163
+			}
+		}		
+		
+		LIM = {
+			government = aristocratic_monarchy
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2181
+			
+			own_control_core = {
+				2181 2182 2185
+			}
+		}		
+		
+		MEA = {
+			government = aristocratic_monarchy
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2167
+			
+			own_control_core = {
+				2167 2194 2191 2192 2168
+			}
+		}	
+		
 		CLI = {
 			government = tribal_chiefdom
 			primary_culture = irish
@@ -17429,9 +17466,33 @@ country = {
 			capital = 2183
 			
 			own_control_core = {
-				2180 2179 2176 2166
+				2183 2180 2179 2176 2166
 			}
-		}				
+		}	
+
+		DER = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2174
+			
+			own_control_core = {
+				2174 2206 2205 2170 2207 
+			}
+		}			
+		
+		LEI = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2187
+			
+			own_control_core = {
+				2187 2186 2188 2189 2164
+			}
+		}		
 	}
 }
 

@@ -11,6 +11,12 @@ DUB = "countries/ireland/dublin.txt"
 CON = "countries/ireland/connacht.txt"
 BEL = "countries/ireland/belfast.txt"
 CLI = "countries/ireland/cliffs.txt"
+ULS = "countries/ireland/ulster.txt"
+COR = "countries/ireland/cork.txt"
+LIM = "countries/ireland/limerick.txt"
+MEA = "countries/ireland/meath.txt"
+DER = "countries/ireland/derry.txt"
+LEI = "countries/ireland/leinster.txt"
 
 #New:
 ATH = "countries/greece/athens.txt"
@@ -91,7 +97,6 @@ TRE = "countries/greece/thrace.txt"
 ODR = "countries/greece/odrysia.txt"
 
 ## Asia Minor
-COR = "countries/syria/corduene.txt"
 
 #New
 PRY = "countries/anatolia/phrygia.txt"
@@ -203,7 +208,6 @@ CAL = "countries/britannia/caledonia.txt"
 VTD = "countries/britannia/votadinia.txt"
 DNN = "countries/britannia/damnonia.txt"
 TXL = "countries/britannia/taexalia.txt"
-ULT = "countries/britannia/ulutia.txt"
 
 #Iberian
 
