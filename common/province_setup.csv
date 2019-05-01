@@ -141,9 +141,9 @@
 140,umbrian,roman_pantheon,honey,6,2,2,7,30,0,Visal,Ariminum
 141,etruscan,roman_pantheon,salt,4,2,3,4,35,0,Portus Veneris,Pisae
 142,lepontic,druidism,fish,2,1,4,6,20,0,Ravna,Ariminum
-143,lepontic,druidism,salt,2,2,5,5,20,0,Brundulum,Ferraria
+143,lepontic,druidism,salt,2,2,5,5,20,0,Brundulum,Costa Rei
 144,lepontic,druidism,salt,3,2,5,4,20,0,Spina,Aemilla
-145,lepontic,druidism,salt,3,2,5,5,20,0,Hadriani,Ferraria
+145,lepontic,druidism,salt,3,2,5,5,20,0,Hadriani,Costa Rei
 146,lepontic,druidism,fur,2,2,4,6,20,0,Bononia,Aemilla
 147,lepontic,druidism,wine,1,3,3,5,20,0,Faventia,Ariminum
 148,lepontic,druidism,stone,2,2,4,7,20,0,Ficline,Ariminum
@@ -353,24 +353,24 @@
 352,thracian,roman_pantheon,cattle,3,3,1,0,40,0,Ornoi,Europa
 353,thracian,roman_pantheon,wine,1,3,2,2,40,0,Kypsela,Europa
 354,thracian,roman_pantheon,wine,2,3,2,2,40,0,Ainos,Europa
-355,cretan,roman_pantheon,marble,6,8,5,0,40,0,Hierapytna,Crete
+355,cretan,roman_pantheon,marble,6,8,5,0,40,0,Ierapetra,Crete
 356,macedonian,roman_pantheon,precious_metals,3,3,3,0,40,0,Thasos,Chalkidiki
 357,thracian,roman_pantheon,fish,1,3,1,2,40,0,Sale,Rhodope
-358,cretan,roman_pantheon,wood,8,5,5,0,40,0,Knossos,Crete
+358,cretan,roman_pantheon,wood,8,5,5,0,40,0,Heraklion,Crete
 359,cretan,roman_pantheon,fish,6,3,4,3,40,0,Lyktos,Crete
 360,thracian,roman_pantheon,wine,2,2,2,3,40,0,Porsulae,Rhodope
-361,cretan,roman_pantheon,base_metals,7,4,5,0,40,0,Gortyna,Crete
+361,cretan,roman_pantheon,base_metals,7,4,5,0,40,0,Asimi,Crete
 362,thracian,roman_pantheon,stone,1,3,2,2,40,0,Abdera,Rhodope
 363,macedonian,roman_pantheon,stone,5,5,3,1,40,0,Neapolis Thrake,Chalkidiki
 364,macedonian,roman_pantheon,iron,1,1,0,0,40,0,Philippi,Chalkidiki
 365,macedonian,roman_pantheon,base_metals,10,5,5,0,40,0,Amphipolis,Chalkidiki
 366,macedonian,roman_pantheon,olive,5,2,5,2,40,0,Tragilos,Chalkidiki
-367,cretan,roman_pantheon,wine,3,5,3,1,40,0,Kydonia,Crete
+367,cretan,roman_pantheon,wine,3,5,3,1,40,0,Chania,Crete
 368,cretan,roman_pantheon,iron,5,3,3,1,40,0,Polyrrinia,Crete
 369,macedonian,roman_pantheon,wine,0,5,5,5,40,0,Sirra,Macedonia
 370,cretan,roman_pantheon,olive,3,4,4,2,40,0,Tarrha,Crete
 371,macedonian,roman_pantheon,glass,0,5,5,5,40,0,Euporia,Macedonia
-372,cretan,roman_pantheon,olive,4,5,4,1,40,0,Korion,Crete
+372,cretan,roman_pantheon,olive,4,5,4,1,40,0,Tympaki,Crete
 373,macedonian,roman_pantheon,glass,8,5,4,0,40,0,Thessalonike,Macedonia
 374,macedonian,roman_pantheon,olive,1,5,5,2,40,0,Kalindoia,Chalkidiki
 375,aegean,roman_pantheon,silk,2,3,4,0,40,0,Amorgos,Aegean Islands
@@ -1007,7 +1007,7 @@
 1006,massalian,roman_pantheon,fish,0,1,0,4,40,0,Kallipolis Iberia,Cessetania
 1007,ausetanian,animism,wood,0,1,0,4,20,0,Rubricatum,Indicetia
 1008,ausetanian,animism,fur,0,1,0,5,20,0,Sebendounon,Indicetia
-1009,lacetanian,animism,salt,1,1,2,5,10,0,Tarraco,Cessetania
+1009,lacetanian,animism,salt,1,1,2,5,10,0,Pakhnesco,Cessetania
 1010,ilergetian,animism,dye,0,1,0,3,10,0,Ilerda,Ilergetia
 1011,ilergetian,animism,marble,1,1,1,6,10,0,Celsa,Ilergetia
 1012,ilercavonian,animism,earthware,2,2,1,5,10,0,Dertosa,Ilercavonia
@@ -1256,7 +1256,7 @@
 1255,contestanian,animism,vegetables,0,1,0,5,10,0,Saltigi,Contestania Septentrionalis
 1256,lobetanian,animism,grain,0,1,0,4,10,0,Parietinae,Lobetania
 1257,oretanian,animism,base_metals,0,1,0,4,15,0,Mentesa,Lobetania
-1258,oretanian,animism,base_metals,0,1,0,3,15,0,Mariana,Lobetania
+1258,oretanian,animism,base_metals,0,1,0,3,15,0,Borgo,Lobetania
 1259,contestanian,animism,dye,0,1,0,4,10,0,Fortuna,Contestania Meridionalis
 1260,contestanian,animism,wine,0,1,0,3,10,0,Iaspis,Contestania Meridionalis
 1261,edetanian,animism,grain,0,1,0,3,10,0,Ad Putea,Edetania
@@ -1385,7 +1385,7 @@
 1384,oretanian,animism,leather,0,1,0,5,15,0,Baecula,Oretania
 1385,bastetanian,animism,olive,0,1,0,4,30,0,Elvira,Bastetania
 1386,turdetanian,animism,grain,0,1,0,3,25,0,Claritas Iulia,Malacitia
-1387,turdetanian,animism,base_metals,0,1,0,4,25,0,Ituci,Malacitia
+1387,turdetanian,animism,base_metals,0,1,0,4,25,0,IManacor,Malacitia
 1388,turdetanian,animism,stone,0,1,0,4,25,0,Ilipula Minor,Malacitia
 1389,turdetanian,animism,vegetables,0,1,0,4,25,0,Ad Gemellas,Malacitia
 1390,turdetanian,animism,precious_metals,0,1,0,4,25,0,Igabrum,Malacitia
@@ -1440,7 +1440,7 @@
 1439,turdulian,druidism,horses,0,2,0,4,20,0,Mirobriga,Turdulia Orientalis
 1440,turdulian,druidism,base_metals,0,1,0,4,20,0,Baedro,Turdulia Orientalis
 1441,turdulian,animism,base_metals,0,1,0,4,20,0,Mellaria,Baetica Cordubensis
-1442,turdetanian,animism,vegetables,0,2,1,4,25,0,Mariana,Baetica Cordubensis
+1442,turdetanian,animism,vegetables,0,2,1,4,25,0,Borgo,Baetica Cordubensis
 1443,oretanian,animism,wood,0,1,0,4,15,0,Edeba,Lobetania
 1444,turdulian,druidism,cloth,1,1,1,4,20,0,Solia,Turdulia Orientalis
 1445,taulantian,roman_pantheon,leather,0,1,0,4,30,0,Sisapo,Illyria Graeca
@@ -1464,10 +1464,10 @@
 1463,vettonian,druidism,fur,0,1,0,4,10,0,Solorbes,Turdulia Orientalis
 1464,carthaginian,carthaginian_pantheon,fish,0,2,0,4,40,0,Ibasim,Balearides
 1465,carthaginian,carthaginian_pantheon,precious_metals,0,1,0,4,40,0,Palma,Balearides
-1466,carthaginian,carthaginian_pantheon,hemp,1,1,1,4,40,0,Guium,Balearides
-1467,carthaginian,carthaginian_pantheon,salt,1,1,0,3,40,0,Pollentia,Balearides
-1468,carthaginian,carthaginian_pantheon,glass,0,1,0,4,40,0,Tuci,Balearides
-1469,carthaginian,carthaginian_pantheon,fish,0,1,1,3,40,0,Mago,Balearides
+1466,carthaginian,carthaginian_pantheon,hemp,1,1,1,4,40,0,Campos,Balearides
+1467,carthaginian,carthaginian_pantheon,salt,1,1,0,3,40,0,Sa Pobla,Balearides
+1468,carthaginian,carthaginian_pantheon,glass,0,1,0,4,40,0,Manacor,Balearides
+1469,carthaginian,carthaginian_pantheon,fish,0,1,1,3,40,0,Manorca,Balearides
 1470,carthaginian,egyptian_pantheon,stone,1,1,1,0,40,0,Yermena,Zeugitana
 1471,carthaginian,carthaginian_pantheon,fish,1,1,1,0,40,0,Mliet,Siculia
 1472,siculian,roman_pantheon,earthware,0,0,0,1,40,0,Liparae,Siculia
@@ -1536,7 +1536,7 @@
 1535,armenian,armenian_religion,stone,0,1,1,3,40,0,Qiz Chakhlu,Soducene
 1536,armenian,armenian_religion,wood,0,1,3,3,40,0,Khezerlu Qal'eh,Soducene
 1537,armenian,armenian_religion,leather,0,1,2,15,40,0,Nuarsak,Soducene
-1538,armenian,zoroaster,wood,1,1,2,1,40,0,Sanora,Syunik
+1538,armenian,zoroaster,wood,1,1,2,1,40,0,SaPula,Syunik
 1539,armenian,zoroaster,grain,1,1,1,0,40,0,Gavur Qal'eh,Parsatunik
 1540,armenian,armenian_religion,wood,0,0,1,2,40,0,Parakan,Syunik
 1541,armenian,zoroaster,grain,0,1,2,2,40,0,Oghlu Qal'eh,Soducene
@@ -1813,7 +1813,7 @@
 1812,greco_pontic,roman_pantheon,fish,4,2,3,3,40,0,Sinope,Paphlagonia Inferior
 1813,cappadocian,anatolian_religion,salt,3,2,3,5,25,0,Nyssa,Cappadocia Garsauritis
 1814,greco_pontic,roman_pantheon,cloth,1,2,3,3,40,0,Stephane,Paphlagonia Inferior
-1815,greco_pontic,roman_pantheon,cloth,2,2,2,3,40,0,Koloussa,Paphlagonia Inferior
+1815,greco_pontic,roman_pantheon,cloth,2,2,2,3,40,0,KAgios Nikolaossa,Paphlagonia Inferior
 1816,greco_pontic,roman_pantheon,fish,1,2,3,3,40,0,Karambis,Paphlagonia Inferior
 1817,lycaonian,anatolian_religion,hemp,0,2,2,6,40,0,Zoropassos,Cappadocia
 1818,lycaonian,anatolian_religion,leather,0,2,1,6,40,0,Ouenasa,Cappadocia
@@ -2998,7 +2998,7 @@
 2997,,,,0,0,0,0,0,0,Mare Hyrcanium,
 2998,,,,0,0,0,0,0,0,Mare Hyrcanium,
 2999,,,,0,0,0,0,0,0,Mare Hyrcanium,
-3000,santonian,druidism,earthware,0,1,0,4,20,0,Sermanicomago,Santonia
+3000,santonian,druidism,earthware,0,1,0,4,20,0,SermanicoManorca,Santonia
 3001,treverian,druidism,honey,0,1,0,4,10,0,Castrum Vabrense,Treveria Salutaris
 3002,treverian,druidism,cloth,0,1,0,4,10,0,Pannorum,Leucia
 3003,haedui,druidism,horses,1,1,0,4,15,0,Solicia,Leucia
@@ -3481,10 +3481,10 @@
 3480,thamudi,arabian_pantheon,wine,1,1,1,0,10,0,Migayah,Taifa
 3481,carthaginian,carthaginian_pantheon,salt,30,3,1,2,35,0,Sulki,Sardinia Australis
 3482,nuragic,carthaginian_pantheon,iron,1,4,2,1,15,0,Hydata Neapolitana,Sardinia Australis
-3483,carthaginian,carthaginian_pantheon,fish,18,1,2,2,35,0,Nora,Sardinia Australis
+3483,carthaginian,carthaginian_pantheon,fish,18,1,2,2,35,0,Pula,Sardinia Australis
 3484,carthaginian,carthaginian_pantheon,wine,18,3,1,2,35,0,Karali,Sardinia Australis
 3485,carthaginian,carthaginian_pantheon,base_metals,1,3,1,2,35,0,Metalla,Sardinia Australis
-3486,nuragic,carthaginian_pantheon,fish,3,2,2,1,15,0,Ferraria,Sardinia Australis
+3486,nuragic,carthaginian_pantheon,fish,3,2,2,1,15,0,Costa Rei,Sardinia Australis
 3487,nuragic,carthaginian_pantheon,fish,2,1,1,2,35,0,Porticenses,Sardinia Australis
 3488,nuragic,carthaginian_pantheon,base_metals,3,2,1,2,35,0,Sulki,Sardinia Australis
 3489,nuragic,carthaginian_pantheon,wine,2,3,2,2,15,0,Fanum Carisi,Sardinia Borealis
@@ -3498,7 +3498,7 @@
 3497,nuragic,carthaginian_pantheon,hemp,1,1,1,1,15,0,Hermaion Akron,Sardinia Borealis
 3498,nuragic,carthaginian_pantheon,base_metals,2,2,1,2,15,0,Makopsis,Sardinia Borealis
 3499,nuragic,carthaginian_pantheon,wine,1,3,2,0,15,0,Nymphaios Limen,Sardinia Borealis
-3500,nuragic,carthaginian_pantheon,salt,3,1,2,1,15,0,Turris Libisonis,Sardinia Borealis
+3500,nuragic,carthaginian_pantheon,salt,3,1,2,1,15,0,Porto Torres,Sardinia Borealis
 3501,nuragic,carthaginian_pantheon,grain,1,4,1,1,15,0,Hydata Lesitana,Sardinia Borealis
 3502,nuragic,carthaginian_pantheon,base_metals,1,3,3,1,15,0,Sorabile,Sardinia Borealis
 3503,nuragic,carthaginian_pantheon,wine,3,2,3,0,15,0,Coclearia,Sardinia Borealis
@@ -3506,13 +3506,13 @@
 3505,nuragic,carthaginian_pantheon,fish,3,2,3,0,15,0,Portus Tibulae,Sardinia Borealis
 3506,nuragic,carthaginian_pantheon,stone,4,2,2,0,15,0,Viniolae,Sardinia Borealis
 3507,corsian,carthaginian_pantheon,fish,3,2,1,1,35,0,Rubra,Corsica
-3508,corsian,carthaginian_pantheon,stone,3,1,0,3,35,0,Phikaria,Corsica
-3509,corsian,carthaginian_pantheon,salt,3,1,2,0,35,0,Pauka,Corsica
-3510,corsian,carthaginian_pantheon,wood,2,2,1,2,35,0,Ourkinion,Corsica
-3511,corsian,carthaginian_pantheon,fish,1,2,1,0,35,0,Alouka,Corsica
-3512,corsian,carthaginian_pantheon,fish,3,1,1,2,35,0,Rhopikon,Corsica
+3508,corsian,carthaginian_pantheon,stone,3,1,0,3,35,0,Propriano,Corsica
+3509,corsian,carthaginian_pantheon,salt,3,1,2,0,35,0,Ajaccio,Corsica
+3510,corsian,carthaginian_pantheon,wood,2,2,1,2,35,0,Cargese,Corsica
+3511,corsian,carthaginian_pantheon,fish,1,2,1,0,35,0,Galeria,Corsica
+3512,corsian,carthaginian_pantheon,fish,3,1,1,2,35,0,L'Île-Rousse,Corsica
 3513,corsian,carthaginian_pantheon,salt,2,1,2,2,35,0,Centurinum,Corsica
-3514,corsian,carthaginian_pantheon,wine,3,1,1,3,35,0,Mariana,Corsica
+3514,corsian,carthaginian_pantheon,wine,3,1,1,3,35,0,Borgo,Corsica
 3515,massalian,roman_pantheon,honey,6,6,3,4,40,0,Alalia,Corsica
 3516,corsian,carthaginian_pantheon,grain,3,4,3,2,35,0,Sermigium,Corsica
 3517,salluvian,druidism,fish,3,3,2,4,20,0,Tauroention,Alpes Maritimae
@@ -3587,15 +3587,15 @@
 3586,lepontic,druidism,wood,3,3,1,8,15,0,Mantua,Cenomannia
 3587,lepontic,druidism,earthware,1,2,1,7,20,0,Brixellum,Aemilla
 3588,lepontic,druidism,grain,2,1,2,7,20,0,Colicaria,Aemilla
-3589,lepontic,druidism,wine,1,1,1,8,20,0,Hostilia,Ferraria
-3590,lepontic,druidism,wine,1,4,4,7,20,0,Auraei,Ferraria
+3589,lepontic,druidism,wine,1,1,1,8,20,0,Hostilia,Costa Rei
+3590,lepontic,druidism,wine,1,4,4,7,20,0,Auraei,Costa Rei
 3591,lepontic,druidism,grain,2,2,2,6,20,0,Vicus Varianus,Aemilla
-3592,lepontic,druidism,grain,2,3,1,7,20,0,Feraria,Ferraria
-3593,lepontic,druidism,grain,1,1,3,8,20,0,Hatria,Ferraria
-3594,lepontic,druidism,olive,1,2,2,10,20,0,Patavium,Ferraria
-3595,lepontic,druidism,wood,1,4,2,5,20,0,Aponus,Ferraria
-3596,venetic,druidism,horses,3,2,3,6,20,0,Berua,Ferraria
-3597,venetic,roman_pantheon,salt,1,4,3,6,20,0,Ad Portum,Ferraria
+3592,lepontic,druidism,grain,2,3,1,7,20,0,Feraria,Costa Rei
+3593,lepontic,druidism,grain,1,1,3,8,20,0,Hatria,Costa Rei
+3594,lepontic,druidism,olive,1,2,2,10,20,0,Patavium,Costa Rei
+3595,lepontic,druidism,wood,1,4,2,5,20,0,Aponus,Costa Rei
+3596,venetic,druidism,horses,3,2,3,6,20,0,Berua,Costa Rei
+3597,venetic,roman_pantheon,salt,1,4,3,6,20,0,Ad Portum,Costa Rei
 3598,venetic,roman_pantheon,fish,4,2,4,7,20,0,Altinon,Venetia
 3599,venetic,roman_pantheon,olive,3,2,4,8,20,0,Tarvisium,Venetia
 3600,venetic,roman_pantheon,horses,1,1,1,8,20,0,Acelum,Venetia
@@ -4536,7 +4536,7 @@
 4535,scythian,indo_iranian_religion,salt,1,2,1,2,10,0,Masella,Bosproranum
 4536,bosporan,roman_pantheon,grain,1,4,3,4,25,0,Kerkinitis,Taurica
 4537,bosporan,roman_pantheon,wine,3,3,2,2,25,0,Parthenion,Taurica
-4538,bosporan,roman_pantheon,fish,6,5,4,2,25,0,Chersonesos,Taurica
+4538,bosporan,roman_pantheon,fish,6,5,4,2,25,0,Sevastopol,Taurica
 4539,bosporan,roman_pantheon,cattle,3,4,2,2,25,0,Charax,Taurica
 4540,bosporan,roman_pantheon,earthware,2,4,2,1,25,0,Lampas,Taurica
 4541,bosporan,roman_pantheon,wine,2,2,0,1,25,0,Aloustou Phrourion,Taurica
@@ -5998,18 +5998,18 @@
 5997,egyptian,egyptian_pantheon,,0,0,0,0,0,0,,
 5998,dacian,shamanism,,0,0,0,0,0,0,,
 5999,celtic_pannonian,druidism,,0,0,0,0,0,0,,
-6000,herulian,germanic_religion,leather,1,2,0,3,5,0,Uppakra,Herulia
-6001,herulian,germanic_religion,vegetables,0,0,0,3,5,0,Svimraros,Herulia
-6002,herulian,germanic_religion,wild_game,0,1,0,4,5,0,Guthisbo,Herulia
-6003,herulian,germanic_religion,hemp,0,1,0,3,5,0,Bergio,Herulia
+6000,herulian,germanic_religion,leather,1,2,0,3,5,0,Malmö,Herulia
+6001,herulian,germanic_religion,vegetables,0,0,0,3,5,0,Tomelilla,Herulia
+6002,herulian,germanic_religion,wild_game,0,1,0,4,5,0,Kristianstad,Herulia
+6003,herulian,germanic_religion,hemp,0,1,0,3,5,0,Helsingborg,Herulia
 6004,herulian,germanic_religion,fish,0,0,1,2,5,0,Burgundarholm,Herulia
-6005,herulian,germanic_religion,wild_game,0,0,0,3,5,0,Vang,Herulia
-6006,gutones,germanic_religion,fish,0,1,0,3,5,0,Borgamo,Herulia
-6007,gutones,germanic_religion,salt,0,0,0,3,5,0,Meore,Herulia
+6005,herulian,germanic_religion,wild_game,0,0,0,3,5,0,Karlshamn,Herulia
+6006,gutones,germanic_religion,fish,0,1,0,3,5,0,Karlskrona,Herulia
+6007,gutones,germanic_religion,salt,0,0,0,3,5,0,Kalmar,Herulia
 6008,gutones,germanic_religion,fur,0,0,0,4,5,0,Theustia,East Gothia
-6009,gutones,germanic_religion,salt,0,0,0,3,5,0,Eowia,Herulia
-6010,gutones,germanic_religion,fish,0,0,0,3,5,0,Vineta,East Gothia
-6011,raumarician,germanic_religion,fish,0,0,0,4,5,0,Feruiria,West Gothia
+6009,gutones,germanic_religion,salt,0,0,0,3,5,0,Oland,Herulia
+6010,gutones,germanic_religion,fish,0,0,0,3,5,0,Gotland,East Gothia
+6011,raumarician,germanic_religion,fish,0,0,0,4,5,0,Halmstad,West Gothia
 6012,raumarician,germanic_religion,salt,0,0,0,4,5,0,Konghelle,West Gothia
 6013,raumarician,germanic_religion,wood,0,0,0,3,5,0,Gautigothia,West Gothia
 6014,herulian,germanic_religion,wood,0,0,0,3,5,0,Finnaithae,Herulia
@@ -6032,10 +6032,10 @@
 6031,suiones,germanic_religion,woad,0,0,0,3,5,0,Arosia,East Gothia
 6032,suiones,germanic_religion,woad,0,0,0,2,5,0,Broborg,East Gothia
 6033,raumarician,germanic_religion,fur,0,0,0,2,5,0,Vrine,West Gothia
-6034,raumarician,germanic_religion,wild_game,0,0,0,3,5,0,Tanum,Ultima Thule
+6034,raumarician,germanic_religion,wild_game,0,0,0,3,5,0,Bornholm,Ultima Thule
 6035,rugian,germanic_religion,woad,0,0,0,3,5,0,Vinovilothia,Ultima Thule
 6036,raumarician,germanic_religion,hemp,1,0,0,3,5,0,Rania,West Gothia
-6037,rugian,germanic_religion,vegetables,1,0,0,3,5,0,Raumariki,Ultima Thule
+6037,rugian,germanic_religion,vegetables,1,0,0,3,5,0,Oslo,Ultima Thule
 6038,rugian,germanic_religion,hemp,0,0,0,3,5,0,Lingum,Ultima Thule
 6039,rugian,germanic_religion,wild_game,0,0,1,4,5,0,Grannia,Ultima Thule
 6040,rugian,germanic_religion,fish,0,0,0,4,5,0,Augandzia,Ultima Thule
@@ -6882,7 +6882,7 @@
 6881,maharashtran,hindu,salt,7,10,8,5,20,0,Tyrannosboas,South Sahyadri
 6882,maharashtran,hindu,cattle,3,3,4,2,20,0,Toparon,South Sahyadri
 6883,maharashtran,hindu,iron,6,3,3,2,10,0,Aegidi,Vanavasi
-6884,kannadan,hindu,salt,5,3,3,3,20,0,Chersonesos,Vanavasi
+6884,kannadan,hindu,salt,5,3,3,3,20,0,Sevastopol,Vanavasi
 6885,kannadan,hindu,wild_game,2,3,2,4,20,0,Nouira,Vanavasi
 6886,kannadan,hindu,fish,3,6,6,0,20,0,Olokhoira,North Satiyaputa
 6887,kannadan,buddhism,wood,2,2,2,2,20,0,Pira,Vanavasi
