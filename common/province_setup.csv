@@ -5,7 +5,7 @@
 4,roman,roman_pantheon,wood,8,8,5,0,40,0,Circeii,Latium
 5,roman,roman_pantheon,cloth,8,8,6,0,40,0,Fundi,Latium
 6,roman,roman_pantheon,wine,7,7,6,0,40,0,Capua,Campania
-7,samnite,roman_pantheon,wood,3,6,3,2,30,0,Neapolis,Campania
+7,samnite,roman_pantheon,wood,3,6,3,2,30,0,Nabeul‎,Campania
 8,samnite,roman_pantheon,cloth,3,4,3,1,30,0,Saticula,Campania
 9,samnite,roman_pantheon,wine,3,5,3,1,30,0,Pompeii,Campania
 10,samnite,roman_pantheon,olive,4,4,3,0,30,0,Irna,Lucania
@@ -329,14 +329,14 @@
 328,phrygian,anatolian_religion,cattle,1,3,3,1,40,0,Orkistos,Phrygia Epictetus
 329,bithynian,roman_pantheon,cattle,3,3,2,1,40,0,Milia,Bithynia Superior
 330,cypriot,roman_pantheon,olive,2,2,5,0,40,0,Karpasion,Cyprus
-331,cypriot,roman_pantheon,glass,6,3,5,0,40,0,Salamis,Cyprus
-332,cypriot,roman_pantheon,base_metals,5,2,5,0,40,0,Kition,Cyprus
-333,cypriot,roman_pantheon,base_metals,3,2,4,0,40,0,Soloi,Cyprus
+331,cypriot,roman_pantheon,glass,6,3,5,0,40,0,Gazimağusa,Cyprus
+332,cypriot,roman_pantheon,base_metals,5,2,5,0,40,0,Larnaca,Cyprus
+333,cypriot,roman_pantheon,base_metals,3,2,4,0,40,0,Lefkee,Cyprus
 334,cypriot,roman_pantheon,wood,8,2,4,0,40,0,Paphos,Cyprus
-335,cypriot,roman_pantheon,olive,8,2,6,0,40,0,Lapethos,Cyprus
-336,cypriot,roman_pantheon,base_metals,6,2,3,0,40,0,Tamassos,Cyprus
+335,cypriot,roman_pantheon,olive,8,2,6,0,40,0,Girne,Cyprus
+336,cypriot,roman_pantheon,base_metals,6,2,3,0,40,0,Nicosia,Cyprus
 337,mysian,anatolian_religion,glass,2,4,3,1,40,0,Hadrianoutherai,Mysia Abrettene
-338,cypriot,roman_pantheon,base_metals,5,2,2,0,40,0,Amathous,Cyprus
+338,cypriot,roman_pantheon,base_metals,5,2,2,0,40,0,Limassol,Cyprus
 339,phrygian,roman_pantheon,iron,1,2,1,3,40,0,Sebaste,Phrygia
 340,vettonian,druidism,precious_metals,1,1,1,0,10,0,Turgalium,Vettonia Meridionalis
 341,thracian,roman_pantheon,fish,1,3,4,0,40,0,Philia,Europa
@@ -361,7 +361,7 @@
 360,thracian,roman_pantheon,wine,2,2,2,3,40,0,Porsulae,Rhodope
 361,cretan,roman_pantheon,base_metals,7,4,5,0,40,0,Asimi,Crete
 362,thracian,roman_pantheon,stone,1,3,2,2,40,0,Abdera,Rhodope
-363,macedonian,roman_pantheon,stone,5,5,3,1,40,0,Neapolis Thrake,Chalkidiki
+363,macedonian,roman_pantheon,stone,5,5,3,1,40,0,Nabeul‎ Thrake,Chalkidiki
 364,macedonian,roman_pantheon,iron,1,1,0,0,40,0,Philippi,Chalkidiki
 365,macedonian,roman_pantheon,base_metals,10,5,5,0,40,0,Amphipolis,Chalkidiki
 366,macedonian,roman_pantheon,olive,5,2,5,2,40,0,Tragilos,Chalkidiki
@@ -401,14 +401,14 @@
 400,macedonian,roman_pantheon,leather,2,5,2,2,40,0,Elimia,Macedonia Secunda
 401,aetolian,roman_pantheon,iron,2,2,2,0,40,0,Hypata,Aetolia
 402,boeotian,roman_pantheon,iron,1,3,2,0,40,0,Opous,Aetolia
-403,euboean,roman_pantheon,wine,1,2,3,0,40,0,Histiaia,Hellas
+403,eubTripolin,roman_pantheon,wine,1,2,3,0,40,0,Histiaia,Hellas
 404,thessalian,roman_pantheon,honey,3,2,3,0,40,0,Oloosson,Thessaly
 405,macedonian,roman_pantheon,leather,0,4,1,2,40,0,Stuberra,Macedonia Secunda
 406,boeotian,roman_pantheon,wine,4,2,3,0,40,0,Anthedon,Hellas
-407,euboean,roman_pantheon,earthware,3,3,3,0,40,0,Chalkis,Hellas
+407,eubTripolin,roman_pantheon,earthware,3,3,3,0,40,0,Chalkis,Hellas
 408,macedonian,roman_pantheon,cattle,0,4,1,0,40,0,Arnisa,Macedonia Secunda
-409,euboean,roman_pantheon,base_metals,3,2,2,0,40,0,Karystos,Hellas
-410,euboean,roman_pantheon,fish,1,3,4,0,40,0,Oichalia,Hellas
+409,eubTripolin,roman_pantheon,base_metals,3,2,2,0,40,0,Karystos,Hellas
+410,eubTripolin,roman_pantheon,fish,1,3,4,0,40,0,Oichalia,Hellas
 411,macedonian,roman_pantheon,grain,2,4,2,5,40,0,Herakleia Lynkestis,Macedonia Secunda
 412,taulantian,roman_pantheon,vegetables,1,3,1,2,30,0,Lychnidos,Macedonia Secunda
 413,athenian,roman_pantheon,iron,1,3,3,0,40,0,Oropos,Hellas
@@ -443,7 +443,7 @@
 442,peloponnesian,roman_pantheon,olive,2,5,2,0,40,0,Aigina,Achaea
 443,aegean,roman_pantheon,iron,1,2,2,0,40,0,Kynthos,Aegean Islands
 444,achaean,roman_pantheon,cloth,3,5,3,0,40,0,Aigion,Achaea
-445,egyptian,egyptian_pantheon,fish,2,2,3,5,40,0,Leukaspis,Western Delta
+445,egyptian,egyptian_pantheon,fish,2,2,3,5,40,0,LeukKelibia,Western Delta
 446,achaean,roman_pantheon,wine,7,3,2,0,40,0,Elis,Laconia
 447,aegean,roman_pantheon,fish,2,1,1,0,40,0,Siros,Aegean Islands
 448,achaean,roman_pantheon,olive,2,5,1,0,40,0,Stymphalos,Achaea
@@ -1258,7 +1258,7 @@
 1257,oretanian,animism,base_metals,0,1,0,4,15,0,Mentesa,Lobetania
 1258,oretanian,animism,base_metals,0,1,0,3,15,0,Borgo,Lobetania
 1259,contestanian,animism,dye,0,1,0,4,10,0,Fortuna,Contestania Meridionalis
-1260,contestanian,animism,wine,0,1,0,3,10,0,Iaspis,Contestania Meridionalis
+1260,contestanian,animism,wine,0,1,0,3,10,0,IKelibia,Contestania Meridionalis
 1261,edetanian,animism,grain,0,1,0,3,10,0,Ad Putea,Edetania
 1262,contestanian,animism,olive,0,1,0,6,10,0,Ad Palem,Contestania Septentrionalis
 1263,edetanian,animism,wine,0,1,0,2,10,0,Incusum,Edetania
@@ -1469,7 +1469,7 @@
 1468,carthaginian,carthaginian_pantheon,glass,0,1,0,4,40,0,Manacor,Balearides
 1469,carthaginian,carthaginian_pantheon,fish,0,1,1,3,40,0,Manorca,Balearides
 1470,carthaginian,egyptian_pantheon,stone,1,1,1,0,40,0,Yermena,Zeugitana
-1471,carthaginian,carthaginian_pantheon,fish,1,1,1,0,40,0,Mliet,Siculia
+1471,carthaginian,carthaginian_pantheon,fish,1,1,1,0,40,0,Malta,Siculia
 1472,siculian,roman_pantheon,earthware,0,0,0,1,40,0,Liparae,Siculia
 1473,,,,0,0,0,0,0,0,Sinus Arabicus,
 1474,,,,0,0,0,0,0,0,Sinus Arabicus,
@@ -1885,7 +1885,7 @@
 1884,cilician,roman_pantheon,olive,1,4,2,0,40,0,Thebai,Cilicia Pedias
 1885,isaurian,anatolian_religion,wine,0,2,3,2,40,0,Selge,Pisidia
 1886,cappadocian,anatolian_religion,honey,1,1,0,5,25,0,Dalanda,Cappadocia Melitene
-1887,cilician,roman_pantheon,wine,6,5,3,0,40,0,Soloi,Cilicia Trachea
+1887,cilician,roman_pantheon,wine,6,5,3,0,40,0,Lefka,Cilicia Trachea
 1888,lycaonian,anatolian_religion,stone,0,1,2,6,40,0,Podandos,Cappadocia Garsauritis
 1889,cilician,roman_pantheon,base_metals,2,5,4,0,40,0,Magarsa,Cilicia Trachea
 1890,ionian,roman_pantheon,fish,5,3,3,0,40,0,Tracheia,Cilicia Trachea
@@ -1923,7 +1923,7 @@
 1922,isaurian,anatolian_religion,vegetables,0,3,1,2,40,0,Mistia,Isauria
 1923,cappadocian,anatolian_religion,cattle,0,1,3,4,25,0,Soanda,Cappadocia Saravene
 1924,lycaonian,anatolian_religion,cloth,0,2,2,2,40,0,Pappa,Isauria
-1925,phrygian,anatolian_religion,wine,0,3,3,2,40,0,Neapolis Paroreia,Phrygia Parorea
+1925,phrygian,anatolian_religion,wine,0,3,3,2,40,0,Nabeul‎ Paroreia,Phrygia Parorea
 1926,phrygian,anatolian_religion,cloth,0,3,2,2,40,0,Anaboura,Phrygia Parorea
 1927,isaurian,anatolian_religion,vegetables,0,3,3,3,40,0,Tityassos,Pisidia
 1928,phrygian,anatolian_religion,vegetables,1,4,4,2,40,0,Men Askaenos,Phrygia Parorea
@@ -1961,7 +1961,7 @@
 1960,lycian,roman_pantheon,cattle,2,2,2,1,40,0,Sinda,Lycia
 1961,carian,anatolian_religion,wine,0,1,2,2,40,0,Olbasa,Milyas
 1962,carian,roman_pantheon,olive,3,1,3,2,40,0,Nysa,Caria Mediterraneus
-1963,carian,roman_pantheon,honey,2,2,3,2,40,0,Neapolis Karia,Caria Mediterraneus
+1963,carian,roman_pantheon,honey,2,2,3,2,40,0,Nabeul‎ Karia,Caria Mediterraneus
 1964,aegean,roman_pantheon,precious_metals,1,3,1,0,40,0,Melos,Aegean Islands
 1965,lycaonian,anatolian_religion,stone,0,2,2,1,40,0,Lystra,Lycaonia
 1966,carian,roman_pantheon,cloth,3,2,4,2,40,0,Tralles,Caria Mediterraneus
@@ -3083,7 +3083,7 @@
 3082,socossian,berber_religion,stone,0,0,0,1,10,0,Mons Ambulatis,Mauretania
 3083,massaesylian,berber_religion,wood,1,1,1,3,10,0,Lemnis,Metagonia
 3084,massaesylian,berber_religion,elephants,1,1,1,2,10,0,Syrorum,Metagonia
-3085,carthaginian,berber_religion,stone,2,1,0,2,30,0,Tamuda,Tingitania
+3085,carthaginian,berber_religion,stone,2,1,0,2,30,0,Tetuoan,Tingitania
 3086,massaesylian,berber_religion,wood,1,1,0,2,10,0,Siga,Metagonia
 3087,massaesylian,berber_religion,gems,1,1,1,3,10,0,Pomaria,Metagonia
 3088,massaesylian,berber_religion,elephants,1,1,1,1,10,0,Albulae,Metagonia
@@ -3195,7 +3195,7 @@
 3194,massylian,berber_religion,wood,1,1,2,1,25,0,Thelepte,Maxyesia
 3195,massylian,berber_religion,cattle,1,1,1,0,25,0,Gemellia,Maxyesia
 3196,massylian,berber_religion,horses,0,0,1,2,25,0,Capsa Iustiniana,Maxyesia
-3197,massylian,berber_religion,wood,2,1,1,3,25,0,Sufetula,Musulamia
+3197,massylian,berber_religion,wood,2,1,1,3,25,0,Sufetula,MSfaxmia
 3198,massylian,berber_religion,cloth,1,1,2,1,25,0,Cillium,Maxyesia
 3199,massylian,berber_religion,cattle,0,1,2,2,25,0,Nara,Maxyesia
 3200,massylian,berber_religion,spices,1,3,0,2,25,0,Oviscae,Maxyesia
@@ -3203,14 +3203,14 @@
 3202,massylian,berber_religion,horses,1,1,0,2,25,0,Silesva,Maxyesia
 3203,massylian,berber_religion,wine,1,0,1,1,10,0,Tbessa,Zaba
 3204,massylian,berber_religion,wood,2,1,2,3,10,0,Vatari,Zaba
-3205,massylian,berber_religion,wine,1,2,0,2,25,0,Menegesum,Musulamia
+3205,massylian,berber_religion,wine,1,2,0,2,25,0,Menegesum,MSfaxmia
 3206,massylian,berber_religion,horses,1,1,1,4,10,0,Ad Aquas Caesaris,Zaba
 3207,massylian,berber_religion,horses,0,1,1,2,10,0,Vegesela,Zaba
 3208,massylian,berber_religion,spices,1,2,0,4,10,0,Ammaedara,Aurasius
-3209,massylian,berber_religion,wine,0,1,0,1,25,0,Thala,Musulamia
-3210,massylian,berber_religion,wood,1,1,2,0,25,0,Sufes,Musulamia
-3211,massylian,berber_religion,cattle,0,1,1,3,25,0,Masclinae,Musulamia
-3212,massylian,berber_religion,grain,1,2,0,3,25,0,Aquae Regiae,Musulamia
+3209,massylian,berber_religion,wine,0,1,0,1,25,0,Thala,MSfaxmia
+3210,massylian,berber_religion,wood,1,1,2,0,25,0,Sufes,MSfaxmia
+3211,massylian,berber_religion,cattle,0,1,1,3,25,0,Masclinae,MSfaxmia
+3212,massylian,berber_religion,grain,1,2,0,3,25,0,Aquae Regiae,MSfaxmia
 3213,massylian,berber_religion,horses,0,1,0,1,10,0,Vasampus,Aurasius
 3214,massylian,berber_religion,wine,1,1,0,1,10,0,Thaesactum,Aurasius
 3215,massylian,berber_religion,stone,1,1,0,1,10,0,Casaea,Aurasius
@@ -3237,51 +3237,51 @@
 3236,massylian,berber_religion,wine,0,2,1,2,25,0,Assuras,Thabracania
 3237,massylian,berber_religion,wood,0,1,0,4,25,0,Obba,Thabracania
 3238,massylian,berber_religion,earthware,1,0,2,3,25,0,Zama,Thabracania
-3239,massylian,berber_religion,wine,1,1,1,3,25,0,Uzappa,Musulamia
+3239,massylian,berber_religion,wine,1,1,1,3,25,0,Uzappa,MSfaxmia
 3240,carthaginian,carthaginian_pantheon,cattle,5,1,3,4,40,0,Seressi,Zeugitana
 3241,carthaginian,carthaginian_pantheon,olive,6,1,1,2,40,0,Furnos Maius,Zeugitana
 3242,carthaginian,carthaginian_pantheon,grain,6,2,1,4,40,0,Abthugni,Zeugitana
-3243,carthaginian,carthaginian_pantheon,wine,6,1,2,3,40,0,Feradi Maius,Zeugitana
-3244,carthaginian,carthaginian_pantheon,wine,3,2,2,6,40,0,Pupput,Zeugitana
+3243,carthaginian,carthaginian_pantheon,wine,6,1,2,3,40,0,Bouficha,Zeugitana
+3244,carthaginian,carthaginian_pantheon,wine,3,2,2,6,40,0,Hammamet,Zeugitana
 3245,carthaginian,carthaginian_pantheon,spices,6,3,1,0,40,0,Curubis,Zeugitana
-3246,massylian,berber_religion,wood,1,1,3,4,25,0,Mactaris,Musulamia
-3247,massylian,berber_religion,horses,1,1,0,3,25,0,Althiburos,Musulamia
-3248,massylian,berber_religion,horses,1,0,1,2,25,0,Thugga Terebenthina,Musulamia
+3246,massylian,berber_religion,wood,1,1,3,4,25,0,Mactaris,MSfaxmia
+3247,massylian,berber_religion,horses,1,1,0,3,25,0,Althiburos,MSfaxmia
+3248,massylian,berber_religion,horses,1,0,1,2,25,0,Thugga Terebenthina,MSfaxmia
 3249,carthaginian,carthaginian_pantheon,stone,5,2,3,3,40,0,Ziqua,Zeugitana
-3250,carthaginian,carthaginian_pantheon,stone,4,1,2,5,40,0,Oudna,Carthago
-3251,carthaginian,carthaginian_pantheon,wood,5,1,3,4,40,0,Membressa,Carthago
-3252,carthaginian,carthaginian_pantheon,dye,9,2,4,3,40,0,Carpis,Carthago
-3253,carthaginian,carthaginian_pantheon,olive,7,2,5,3,40,0,Nepheris,Carthago
+3250,carthaginian,carthaginian_pantheon,stone,4,1,2,5,40,0,Oudna,Tunis
+3251,carthaginian,carthaginian_pantheon,wood,5,1,3,4,40,0,Membressa,Tunis
+3252,carthaginian,carthaginian_pantheon,dye,9,2,4,3,40,0,Carpis,Tunis
+3253,carthaginian,carthaginian_pantheon,olive,7,2,5,3,40,0,Nepheris,Tunis
 3254,carthaginian,carthaginian_pantheon,dye,4,2,3,0,40,0,Kerkouane,Zeugitana
-3255,carthaginian,carthaginian_pantheon,stone,4,2,6,2,40,0,Missua,Carthago
-3256,carthaginian,carthaginian_pantheon,dye,17,4,6,4,40,0,Carthage,Carthago
-3257,carthaginian,carthaginian_pantheon,grain,7,4,5,3,40,0,Atiq,Carthago
-3258,carthaginian,carthaginian_pantheon,grain,2,0,3,3,40,0,Ubon,Carthago
-3259,carthaginian,carthaginian_pantheon,base_metals,4,1,2,4,40,0,Uzali Sar,Carthago
-3260,carthaginian,carthaginian_pantheon,grain,3,2,1,3,40,0,Matar,Carthago
-3261,carthaginian,carthaginian_pantheon,wood,2,3,2,2,40,0,Rucuma,Carthago
+3255,carthaginian,carthaginian_pantheon,stone,4,2,6,2,40,0,Al Huwariyah,Tunis
+3256,carthaginian,carthaginian_pantheon,dye,17,4,6,4,40,0,Carthage,Tunis
+3257,carthaginian,carthaginian_pantheon,grain,7,4,5,3,40,0,Atiq,Tunis
+3258,carthaginian,carthaginian_pantheon,grain,2,0,3,3,40,0,Ubon,Tunis
+3259,carthaginian,carthaginian_pantheon,base_metals,4,1,2,4,40,0,Uzali Sar,Tunis
+3260,carthaginian,carthaginian_pantheon,grain,3,2,1,3,40,0,Matar,Tunis
+3261,carthaginian,carthaginian_pantheon,wood,2,3,2,2,40,0,Rucuma,Tunis
 3262,carthaginian,carthaginian_pantheon,base_metals,7,1,3,2,40,0,Rucuma,Thabracania
-3263,carthaginian,carthaginian_pantheon,wine,5,1,1,0,40,0,Thizika,Carthago
+3263,carthaginian,carthaginian_pantheon,wine,5,1,1,0,40,0,Thizika,Tunis
 3264,carthaginian,carthaginian_pantheon,olive,5,2,5,2,40,0,Vaga,Thabracania
 3265,carthaginian,carthaginian_pantheon,wood,2,1,3,2,40,0,Thimida Bure,Thabracania
-3266,carthaginian,carthaginian_pantheon,base_metals,7,1,3,4,40,0,Ureu,Carthago
+3266,carthaginian,carthaginian_pantheon,base_metals,7,1,3,4,40,0,Ureu,Tunis
 3267,carthaginian,carthaginian_pantheon,wood,3,2,3,2,40,0,Numluli,Thabracania
 3268,massylian,berber_religion,base_metals,2,2,2,4,25,0,Aunobaris,Thabracania
 3269,massylian,berber_religion,wood,1,3,1,3,25,0,Agbia,Thabracania
 3270,carthaginian,carthaginian_pantheon,olive,5,2,3,2,40,0,Bisica Lucana,Zeugitana
 3271,carthaginian,carthaginian_pantheon,olive,4,1,2,2,40,0,Thignica,Thabracania
 3272,carthaginian,carthaginian_pantheon,cattle,4,1,1,1,40,0,Muzuc,Zeugitana
-3273,massylian,berber_religion,grain,1,1,1,0,25,0,Aquae Casae,Musulamia
+3273,massylian,berber_religion,grain,1,1,1,0,25,0,Aquae Casae,MSfaxmia
 3274,carthaginian,carthaginian_pantheon,grain,1,1,1,2,40,0,Mediccera,Zeugitana
-3275,carthaginian,carthaginian_pantheon,fish,3,2,3,4,40,0,Ulizibbira,Zeugitana
-3276,carthaginian,carthaginian_pantheon,olive,4,2,2,1,40,0,Adramat,Byssatis
+3275,carthaginian,carthaginian_pantheon,fish,3,2,3,4,40,0,Sousse,Zeugitana
+3276,carthaginian,carthaginian_pantheon,olive,4,2,2,1,40,0,Monastir,Byssatis
 3277,carthaginian,carthaginian_pantheon,olive,5,2,2,2,40,0,Lapki,Byssatis
 3278,carthaginian,carthaginian_pantheon,salt,4,2,2,0,40,0,Tapsa,Byssatis
 3279,carthaginian,carthaginian_pantheon,elephants,3,2,1,0,40,0,Vaga,Byssatis
-3280,carthaginian,carthaginian_pantheon,fish,8,3,2,1,40,0,A'qola,Byssatis
+3280,carthaginian,carthaginian_pantheon,fish,8,3,2,1,40,0,Chebba,Byssatis
 3281,carthaginian,carthaginian_pantheon,wine,5,1,2,1,40,0,Bararus,Byssatis
 3282,carthaginian,carthaginian_pantheon,grain,4,2,2,0,40,0,Thysdrus,Byssatis
-3283,carthaginian,carthaginian_pantheon,wine,2,1,2,2,40,0,Usula,Byssatis
+3283,carthaginian,carthaginian_pantheon,wine,2,1,2,2,40,0,Sfax,Byssatis
 3284,carthaginian,carthaginian_pantheon,dye,5,1,2,0,40,0,Qarkna,Byssatis
 3285,carthaginian,carthaginian_pantheon,fish,4,1,1,0,40,0,Thaenae,Byssatis
 3286,carthaginian,carthaginian_pantheon,cattle,3,2,2,0,40,0,Aeliae,Byssatis
@@ -3490,7 +3490,7 @@
 3489,nuragic,carthaginian_pantheon,wine,2,3,2,2,15,0,Fanum Carisi,Sardinia Borealis
 3490,nuragic,carthaginian_pantheon,iron,4,1,2,4,35,0,Sestis,Sardinia Australis
 3491,nuragic,carthaginian_pantheon,wood,0,1,5,2,35,0,Oualentia,Sardinia Australis
-3492,nuragic,carthaginian_pantheon,cattle,2,1,1,2,35,0,Neapolis Sardinia,Sardinia Australis
+3492,nuragic,carthaginian_pantheon,cattle,2,1,1,2,35,0,Nabeul,Sardinia Australis
 3493,nuragic,carthaginian_pantheon,cattle,1,1,1,3,35,0,Tara,Sardinia Australis
 3494,nuragic,carthaginian_pantheon,cattle,0,2,2,0,15,0,Cornus,Sardinia Borealis
 3495,nuragic,carthaginian_pantheon,grain,1,3,1,3,15,0,Forum Traiani,Sardinia Australis
@@ -4540,7 +4540,7 @@
 4539,bosporan,roman_pantheon,cattle,3,4,2,2,25,0,Charax,Taurica
 4540,bosporan,roman_pantheon,earthware,2,4,2,1,25,0,Lampas,Taurica
 4541,bosporan,roman_pantheon,wine,2,2,0,1,25,0,Aloustou Phrourion,Taurica
-4542,bosporan,roman_pantheon,cloth,3,5,5,4,25,0,Neapolis Taurike,Taurica
+4542,bosporan,roman_pantheon,cloth,3,5,5,4,25,0,Nabeul‎ Taurike,Taurica
 4543,bosporan,roman_pantheon,wine,3,3,2,2,25,0,Athenaion,Taurica
 4544,bosporan,roman_pantheon,cattle,2,3,2,1,25,0,Theodosia,Taurica
 4545,scythian,indo_iranian_religion,cloth,2,3,4,2,10,0,Cimus,Bosproranum
@@ -6967,7 +6967,7 @@
 6966,lankan,hindu,wood,2,0,1,1,40,0,Rohanada,South Tambapamni
 6967,lankan,hindu,wild_game,2,3,2,2,40,0,Gokanna,North Tambapamni
 6968,lankan,hindu,fish,3,2,2,1,40,0,Modoutou,North Tambapamni
-6969,lankan,hindu,fish,3,4,2,3,40,0,Jambukola Pattana,North Tambapamni
+6969,lankan,hindu,fish,3,4,2,3,40,0,Jaffna,North Tambapamni
 6970,lankan,hindu,spices,2,1,0,1,40,0,Vijitanagara,South Tambapamni
 6971,lankan,hindu,gems,3,2,1,0,40,0,Kalyani,South Tambapamni
 6972,lankan,hindu,elephants,1,1,2,2,40,0,Mahatittha,North Tambapamni
