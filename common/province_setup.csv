@@ -2133,12 +2133,12 @@
 2132,caledonian,druidism,stone,0,0,0,2,10,0,Kirkney,Aberdeena
 2133,caledonian,druidism,wild_game,0,0,0,2,10,0,Dundee,Aberdeena
 2134,aremorican,druidism,fish,0,1,0,4,15,0,Cherbourg-Octeville,Venellia
-2135,aremorican,druidism,salt,1,2,0,4,15,0,Aluna,Venellia
-2136,aremorican,druidism,hemp,0,1,0,4,15,0,Crouciaconnum,Venellia
+2135,aremorican,druidism,salt,1,2,0,4,15,0,Sainte-Mère-Église,Venellia
+2136,aremorican,druidism,hemp,0,1,0,4,15,0,Saint-Lô,Venellia
 2137,aremorican,druidism,fish,0,3,0,5,15,0,Coutances,Venellia
 2138,aremorican,druidism,hemp,0,1,0,4,15,0,Bayeux,Venellia
-2139,aremorican,druidism,grain,0,1,0,4,15,0,Cerisiacum,Venellia
-2140,aremorican,druidism,earthware,3,2,0,5,15,0,Ingena,Venellia
+2139,aremorican,druidism,grain,0,1,0,4,15,0,Vire,Venellia
+2140,aremorican,druidism,earthware,3,2,0,5,15,0,Granville,Venellia
 2141,aremorican,druidism,salt,1,1,1,4,15,0,Saint Malo,Armorica
 2142,aremorican,druidism,vegetables,1,2,1,6,15,0,Fanum Martis,Armorica
 2143,aremorican,druidism,fur,0,1,0,4,15,0,Rennes,Armorica
@@ -2216,7 +2216,7 @@
 2215,aremorican,druidism,horses,0,1,0,4,15,0,Foricum,Venellia
 2216,aremorican,druidism,horses,2,2,1,3,15,0,Abricates,Venellia
 2217,aremorican,druidism,leather,0,1,1,4,15,0,Modulus,Eburovicia
-2218,aremorican,druidism,wood,1,1,3,4,15,0,Aregenua,Eburovicia
+2218,aremorican,druidism,wood,1,1,3,4,15,0,Caen,Eburovicia
 2219,aulercian,druidism,cattle,1,3,1,7,15,0,Noviodunum,Eburovicia
 2220,aremorican,druidism,leather,0,1,0,4,15,0,Esuvia Borealis,Eburovicia
 2221,aremorican,druidism,wine,0,1,0,4,15,0,Esuvia Australis,Eburovicia
@@ -2253,14 +2253,14 @@
 2252,aquitani,druidism,stone,2,2,0,4,20,0,Lugdunum Convenarum,Auscia
 2253,aquitani,druidism,stone,0,1,0,4,20,0,Consoranni,Volcatia
 2254,volcae,druidism,olive,0,1,0,4,20,0,Tarusco,Volcatia
-2255,volcae,druidism,precious_metals,0,1,0,4,20,0,Carcasso,Narbonensis
-2256,volcae,druidism,stone,1,1,2,5,20,0,Narbo Martius,Narbonensis
+2255,volcae,druidism,precious_metals,0,1,0,4,20,0,Carcassonne,Narbonensis
+2256,volcae,druidism,stone,1,1,2,5,20,0,Narbonne,Narbonensis
 2257,indiketian,druidism,fish,1,2,1,3,20,0,Perpignan,Narbonensis
-2258,volcae,druidism,marble,1,1,0,6,20,0,Usuerva,Narbonensis
-2259,volcae,druidism,fish,0,2,0,3,20,0,Baeterrae,Narbonensis
+2258,volcae,druidism,marble,1,1,0,6,20,0,Olonzac,Narbonensis
+2259,volcae,druidism,fish,0,2,0,3,20,0,Béziers,Narbonensis
 2260,volcae,druidism,stone,0,2,1,4,20,0,Agathe,Narbonensis
-2261,volcae,druidism,base_metals,1,2,0,6,20,0,Luteva,Narbonensis
-2262,volcae,druidism,horses,1,0,3,4,20,0,Segodunum,Arvernia
+2261,volcae,druidism,base_metals,1,2,0,6,20,0,Clermont-l'Hérault,Narbonensis
+2262,volcae,druidism,horses,1,0,3,4,20,0,Millau,Arvernia
 2263,volcae,druidism,cattle,0,1,0,4,20,0,Albiga,Volcatia
 2264,taulantian,roman_pantheon,leather,2,3,1,1,30,0,Clodiana,Illyria Graeca
 2265,volcae,druidism,earthware,3,2,2,7,20,0,Tolosa,Volcatia
@@ -2311,15 +2311,15 @@
 2310,salluvian,druidism,fur,0,1,0,4,20,0,Cerebelliaca,Vocontia
 2311,salluvian,druidism,marble,2,1,1,6,20,0,Alba Helviorum,Vocontia
 2312,salluvian,druidism,cattle,0,2,2,5,20,0,Andusia,Narbonensis
-2313,salluvian,druidism,salt,1,3,1,4,20,0,Sextantio,Narbonensis
-2314,salluvian,druidism,grain,0,4,1,4,20,0,Nemausus,Vocontia
-2315,salluvian,druidism,cattle,0,3,0,4,20,0,Briginnum,Narbonensis
+2313,salluvian,druidism,salt,1,3,1,4,20,0,Montpellier,Narbonensis
+2314,salluvian,druidism,grain,0,4,1,4,20,0,Nimes,Vocontia
+2315,salluvian,druidism,cattle,0,3,0,4,20,0,Alès,Narbonensis
 2316,salluvian,druidism,precious_metals,3,2,3,5,20,0,Staturnae,Vocontia
 2317,salluvian,druidism,base_metals,1,3,0,4,20,0,Ucetia,Vocontia
-2318,salluvian,druidism,fish,0,1,0,4,20,0,Rhodanousia,Vocontia
+2318,salluvian,druidism,fish,0,1,0,4,20,0,Rosesnousia,Vocontia
 2319,salluvian,druidism,grain,0,1,0,4,20,0,Arelate,Vocontia
 2320,salluvian,druidism,cattle,1,3,0,5,20,0,Arausio,Vocontia
-2321,salluvian,druidism,cloth,0,3,0,6,20,0,Avennio,Vocontia
+2321,salluvian,druidism,cloth,0,3,0,6,20,0,Avignon,Vocontia
 2322,salluvian,druidism,cattle,0,1,0,4,20,0,Carpentorate,Vocontia
 2323,salluvian,roman_pantheon,salt,3,3,0,2,20,0,Aquae Sextiae,Vocontia
 2324,salluvian,druidism,cattle,1,4,1,7,20,0,Vulgientium,Alpes Maritimae
@@ -2441,7 +2441,7 @@
 2440,haedui,druidism,fur,1,1,0,4,15,0,Alesia,Haeduia
 2441,biturigan,druidism,earthware,0,1,0,4,15,0,Autricum,Carnutia
 2442,aulercian,druidism,wine,1,4,1,4,15,0,Aulercorum,Carnutia
-2443,belgae,druidism,cattle,0,1,0,4,15,0,Rotomagus,Veliocassia
+2443,belgae,druidism,cattle,0,1,0,4,15,0,Rouen,Veliocassia
 2444,belgae,druidism,vegetables,0,1,0,4,15,0,Catalacus,Parisia
 2445,belgae,druidism,cattle,0,1,0,3,15,0,Silvanectum,Bellovacia
 2446,belgae,druidism,cloth,0,1,0,4,15,0,Bellovacum,Bellovacia
@@ -2464,12 +2464,12 @@
 2463,aulercian,druidism,vegetables,0,1,0,4,15,0,Condate,Carnutia
 2464,aulercian,druidism,vegetables,0,1,0,5,15,0,Ebrovicia,Carnutia
 2465,aulercian,druidism,wine,0,1,0,3,15,0,Breviodurum,Carnutia
-2466,aulercian,druidism,cattle,0,1,0,4,15,0,Uggate,Carnutia
+2466,aulercian,druidism,cattle,0,1,0,4,15,0,Évreux,Carnutia
 2467,aremorican,druidism,vegetables,0,1,0,4,15,0,Pentale,Veliocassia
-2468,belgae,druidism,vegetables,0,1,1,3,15,0,Caracotinum,Veliocassia
+2468,belgae,druidism,vegetables,0,1,1,3,15,0,Le Havre,Veliocassia
 2469,belgae,druidism,wood,0,1,0,4,15,0,Ritumagus,Veliocassia
-2470,belgae,druidism,fish,0,1,0,5,15,0,Galetia Vesperis,Veliocassia
-2471,belgae,druidism,fish,0,1,0,3,15,0,Galetia Orientalis,Veliocassia
+2470,belgae,druidism,fish,0,1,0,5,15,0,Barentin,Veliocassia
+2471,belgae,druidism,fish,0,1,0,3,15,0,Le Tréport,Veliocassia
 2472,belgae,druidism,wood,0,1,0,4,15,0,Briva Isarae,Parisia
 2473,belgae,druidism,grain,0,1,0,5,15,0,Avalocum,Parisia
 2474,belgae,druidism,wood,1,1,0,4,15,0,Nemetodurum,Parisia
@@ -3024,17 +3024,17 @@
 3023,helvetian,druidism,horses,0,1,0,4,10,0,Brocomagus,Tribocia
 3024,helvetian,druidism,vegetables,0,1,0,4,10,0,Altitona,Tribocia
 3025,helvetian,druidism,horses,0,1,0,4,10,0,Aurelia Aquensis,Tribocia
-3026,belgae,druidism,fish,1,3,0,5,15,0,Gesoriacum,Morinia
+3026,belgae,druidism,fish,1,3,0,5,15,0,Boulogne-sur-Mer,Morinia
 3027,belgae,druidism,earthware,0,3,0,4,15,0,Tarvenna,Morinia
-3028,belgae,druidism,vegetables,0,1,1,4,15,0,Castellum,Morinia
-3029,belgae,druidism,fish,0,1,0,3,15,0,Portus Itius,Morinia
+3028,belgae,druidism,vegetables,0,1,1,4,15,0,Dunkirk,Morinia
+3029,belgae,druidism,fish,0,1,0,3,15,0,Calais,Morinia
 3030,belgae,druidism,cattle,1,1,0,4,15,0,Ardellum,Morinia
 3031,belgae,druidism,wood,0,1,0,4,15,0,Teucera,Bellovacia
 3032,belgae,druidism,wood,0,2,0,5,15,0,Curmiliaca,Bellovacia
-3033,belgae,druidism,fur,1,1,0,4,15,0,Briga,Veliocassia
-3034,belgae,druidism,fur,0,1,0,4,15,0,Caletia Minoris,Veliocassia
+3033,belgae,druidism,fur,1,1,0,4,15,0,Abbeville,Veliocassia
+3034,belgae,druidism,fur,0,1,0,4,15,0,Amiens Minoris,Veliocassia
 3035,belgae,druidism,woad,0,1,0,4,15,0,Samarobriva,Veliocassia
-3036,belgae,druidism,salt,0,1,0,3,15,0,Lintomagus,Veliocassia
+3036,belgae,druidism,salt,0,1,0,3,15,0,Étaples,Veliocassia
 3037,belgae,druidism,wood,0,2,0,4,15,0,Durocoregum,Veliocassia
 3038,belgae,druidism,vegetables,0,1,0,4,15,0,Nemetocenna,Bellovacia
 3039,belgae,druidism,stone,0,1,0,3,15,0,Estia,Veliocassia
@@ -3799,7 +3799,7 @@
 3798,treverian,druidism,wood,0,0,0,2,5,0,Vangionia,Chattia
 3799,treverian,druidism,wood,0,0,0,2,5,0,Salinae,Chattia
 3800,helvetian,druidism,fur,0,0,0,1,5,0,Sedusia,Chattia
-3801,helvetian,druidism,woad,0,0,0,3,5,0,Segodunum,Chattia
+3801,helvetian,druidism,woad,0,0,0,3,5,0,Millau,Chattia
 3802,treverian,druidism,wood,0,0,0,2,5,0,Locoritum,Chattia
 3803,helvetian,druidism,horses,0,0,3,3,5,0,Armalausia,Chattia
 3804,helvetian,druidism,vegetables,0,2,0,3,5,0,Hermunduria,Chattia
@@ -4493,7 +4493,7 @@
 4492,avanti,hindu,incense,0,5,5,5,35,0,Bagh,Anupa
 4493,avanti,hindu,cattle,0,5,5,5,35,0,Akota,Anupa
 4494,saurashtran,hindu,cloth,0,3,2,1,35,0,Candanaputraka,Inner Saurashtra
-4495,avanti,hindu,stone,0,4,3,5,40,0,Agathapura,Maru
+4495,avanti,hindu,stone,0,4,3,5,40,0,Sètepura,Maru
 4496,avanti,hindu,base_metals,3,8,2,5,40,0,Machhindrapur,Maru
 4497,avanti,hindu,leather,0,2,5,10,35,0,Dadhipadra,Anartta
 4498,avanti,hindu,cattle,5,10,5,9,40,0,Dhammanahadika,Avanti
