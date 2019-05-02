@@ -795,7 +795,7 @@ contestania_region = {		#8 areas
 armorica_region = {			#7 areas
 	areas = {
 		armorica_minoris_area
-		armorica_maioris_area
+		manche_area
 		armorica_centralis_area
 		pictonia_septentrionalis_area
 		cenomannia_area

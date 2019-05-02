@@ -1100,7 +1100,7 @@ armorica_minoris_area = {
 	provinces = { 2149 2150 2151 2152 2154 2155 2157 2158 2159 2160 }
 }
 
-armorica_maioris_area = {
+manche_area = {
 	provinces = { 2134 2135 2136 2137 2138 2139 2140 5431 2216 2215 }
 }
 

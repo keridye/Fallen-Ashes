@@ -53,32 +53,32 @@
 52,syracusan,roman_pantheon,wine,8,3,4,5,40,0,Thourioi,Calabria
 53,lucanian,roman_pantheon,cattle,2,2,2,1,40,0,Grumentum,Lucania
 54,syracusan,roman_pantheon,grain,5,2,2,2,40,0,Herakleia,Lucania
-55,syracusan,roman_pantheon,vegetables,6,2,3,1,40,0,Metapontion,Tarentum
-56,syracusan,roman_pantheon,fish,7,2,2,2,40,0,Taras,Tarentum
-57,messapian,roman_pantheon,olive,3,2,2,4,40,0,Brundisium,Tarentum
+55,syracusan,roman_pantheon,vegetables,6,2,3,1,40,0,Metapontion,Taranto
+56,syracusan,roman_pantheon,fish,7,2,2,2,40,0,Taras,Taranto
+57,messapian,roman_pantheon,olive,3,2,2,4,40,0,Brundisium,Taranto
 58,messapian,roman_pantheon,hemp,3,2,3,6,40,0,Barduli,Apulia
 59,lucanian,roman_pantheon,cloth,4,2,4,6,40,0,Consilinum,Lucania
 60,messapian,roman_pantheon,olive,4,2,5,6,40,0,Bantia,Apulia
 61,lucanian,roman_pantheon,hemp,4,2,3,3,40,0,Siris,Lucania
-62,messapian,roman_pantheon,salt,4,2,5,5,40,0,Menturia,Tarentum
-63,messapian,roman_pantheon,fish,4,2,6,6,40,0,Callipolis,Tarentum
-64,messapian,roman_pantheon,earthware,5,3,5,3,40,0,Hydruntum,Tarentum
-65,messapian,roman_pantheon,fish,3,2,5,4,40,0,Lupiae,Tarentum
-66,messapian,roman_pantheon,grain,4,3,5,6,40,0,Barium,Tarentum
-67,messapian,roman_pantheon,olive,4,2,3,5,40,0,Gnatia,Tarentum
-68,messapian,roman_pantheon,vegetables,3,3,5,4,40,0,Turum,Tarentum
+62,messapian,roman_pantheon,salt,4,2,5,5,40,0,Menturia,Taranto
+63,messapian,roman_pantheon,fish,4,2,6,6,40,0,Callipolis,Taranto
+64,messapian,roman_pantheon,earthware,5,3,5,3,40,0,Hydruntum,Taranto
+65,messapian,roman_pantheon,fish,3,2,5,4,40,0,Lupiae,Taranto
+66,messapian,roman_pantheon,grain,4,3,5,6,40,0,Barium,Taranto
+67,messapian,roman_pantheon,olive,4,2,3,5,40,0,Gnatia,Taranto
+68,messapian,roman_pantheon,vegetables,3,3,5,4,40,0,Turum,Taranto
 69,messapian,roman_pantheon,fish,4,1,5,4,40,0,Natiolum,Apulia
 70,messapian,roman_pantheon,grain,3,2,5,3,40,0,Silvium,Apulia
 71,lucanian,roman_pantheon,cattle,3,2,3,7,40,0,Stiglianum,Lucania
 72,syracusan,roman_pantheon,glass,8,2,3,4,40,0,Rhegion,Calabria
 73,syracusan,roman_pantheon,fish,7,3,4,4,40,0,Lokroi Epizephyrioi,Calabria
-74,bruttian,roman_pantheon,wood,2,2,3,5,40,0,Stylacium,Calabria
+74,bruttian,roman_pantheon,wood,2,2,3,5,40,0,Catanzaro,Calabria
 75,syracusan,roman_pantheon,fish,6,2,4,2,40,0,Hipponion,Calabria
 76,bruttian,roman_pantheon,wood,4,2,3,2,40,0,Tempsa,Calabria
 77,bruttian,roman_pantheon,salt,4,1,3,3,40,0,Consentia,Calabria
 78,syracusan,roman_pantheon,earthware,7,2,6,1,40,0,Kroton,Calabria
 79,bruttian,roman_pantheon,cloth,3,2,2,7,40,0,Petelia,Calabria
-80,syracusan,roman_pantheon,stone,2,2,3,3,40,0,Messana,Siculia
+80,syracusan,roman_pantheon,stone,2,2,3,3,40,0,Messini,Siculia
 81,syracusan,roman_pantheon,glass,2,1,3,5,40,0,Tauromenion,Siculia
 82,syracusan,roman_pantheon,grain,1,3,13,0,40,0,Katane,Siculia
 83,syracusan,roman_pantheon,wine,2,4,3,2,40,0,Leontinoi,Siculia
@@ -142,7 +142,7 @@
 141,etruscan,roman_pantheon,salt,4,2,3,4,35,0,Portus Veneris,Pisae
 142,lepontic,druidism,fish,2,1,4,6,20,0,Ravna,Ariminum
 143,lepontic,druidism,salt,2,2,5,5,20,0,Brundulum,Costa Rei
-144,lepontic,druidism,salt,3,2,5,4,20,0,Spina,Aemilla
+144,lepontic,druidism,salt,3,2,5,4,20,0,Ravenna,Aemilla
 145,lepontic,druidism,salt,3,2,5,5,20,0,Hadriani,Costa Rei
 146,lepontic,druidism,fur,2,2,4,6,20,0,Bononia,Aemilla
 147,lepontic,druidism,wine,1,3,3,5,20,0,Faventia,Ariminum
@@ -2132,33 +2132,33 @@
 2131,caledonian,druidism,fish,0,0,0,2,10,0,Wick,Aberdeena
 2132,caledonian,druidism,stone,0,0,0,2,10,0,Kirkney,Aberdeena
 2133,caledonian,druidism,wild_game,0,0,0,2,10,0,Dundee,Aberdeena
-2134,aremorican,druidism,fish,0,1,0,4,15,0,Coriallum,Venellia
+2134,aremorican,druidism,fish,0,1,0,4,15,0,Cherbourg-Octeville,Venellia
 2135,aremorican,druidism,salt,1,2,0,4,15,0,Aluna,Venellia
 2136,aremorican,druidism,hemp,0,1,0,4,15,0,Crouciaconnum,Venellia
-2137,aremorican,druidism,fish,0,3,0,5,15,0,Cosedia,Venellia
-2138,aremorican,druidism,hemp,0,1,0,4,15,0,Augustodurum,Venellia
+2137,aremorican,druidism,fish,0,3,0,5,15,0,Coutances,Venellia
+2138,aremorican,druidism,hemp,0,1,0,4,15,0,Bayeux,Venellia
 2139,aremorican,druidism,grain,0,1,0,4,15,0,Cerisiacum,Venellia
 2140,aremorican,druidism,earthware,3,2,0,5,15,0,Ingena,Venellia
-2141,aremorican,druidism,salt,1,1,1,4,15,0,Reginca,Armorica
+2141,aremorican,druidism,salt,1,1,1,4,15,0,Saint Malo,Armorica
 2142,aremorican,druidism,vegetables,1,2,1,6,15,0,Fanum Martis,Armorica
-2143,aremorican,druidism,fur,0,1,0,4,15,0,Condate Redonum,Armorica
+2143,aremorican,druidism,fur,0,1,0,4,15,0,Rennes,Armorica
 2144,aulercian,druidism,fur,0,1,0,4,15,0,Sipia,Namnetia
-2145,aremorican,druidism,fish,0,1,0,4,15,0,Dolus,Armorica
+2145,aremorican,druidism,fish,0,1,0,4,15,0,Mont Saint-Michel,Armorica
 2146,aremorican,druidism,leather,0,1,0,4,15,0,Matriniaca,Armorica
 2147,aulercian,druidism,base_metals,0,1,0,4,15,0,Duretie,Armorica
-2148,aremorican,druidism,fish,0,1,0,4,15,0,Dariorigum,Armorica
+2148,aremorican,druidism,fish,0,1,0,4,15,0,Vannes,Armorica
 2149,aremorican,druidism,hemp,0,1,0,4,15,0,Sulis,Osisimia
 2150,aremorican,druidism,hemp,0,1,0,4,15,0,Vorgium,Osisimia
-2151,aremorican,druidism,amber,1,1,0,4,15,0,Vorganium,Osisimia
+2151,aremorican,druidism,amber,1,1,0,4,15,0,Brest,Osisimia
 2152,aremorican,druidism,base_metals,0,1,0,4,15,0,Gesoscribate,Osisimia
-2153,aulercian,druidism,precious_metals,0,1,0,4,15,0,Grannona,Armorica
-2154,aremorican,druidism,base_metals,0,1,0,4,15,0,Pollicum,Osisimia
+2153,aulercian,druidism,precious_metals,0,1,0,4,15,0,Saint-Nazaire,Armorica
+2154,aremorican,druidism,base_metals,0,1,0,4,15,0,Lorient,Osisimia
 2155,aremorican,druidism,fish,0,1,0,4,15,0,Agritore,Osisimia
 2156,aremorican,druidism,woad,0,1,0,4,15,0,Coriosolitum,Armorica
-2157,aremorican,druidism,base_metals,0,1,0,4,15,0,Osismetum,Osisimia
-2158,aremorican,druidism,base_metals,2,1,0,4,15,0,Tregoritum,Osisimia
+2157,aremorican,druidism,base_metals,0,1,0,4,15,0,Saint Brieuc,Osisimia
+2158,aremorican,druidism,base_metals,2,1,0,4,15,0,Lannion,Osisimia
 2159,aremorican,druidism,woad,0,1,0,4,15,0,Goelloria,Osisimia
-2160,aremorican,druidism,fish,0,1,0,4,15,0,Leonitia,Osisimia
+2160,aremorican,druidism,fish,0,1,0,4,15,0,Morlaix,Osisimia
 2161,hibernian,druidism,base_metals,0,0,0,3,5,0,Bantry,Hibernia Meridionalis
 2162,hibernian,druidism,wood,0,0,0,2,5,0,Cork,Hibernia Meridionalis
 2163,hibernian,druidism,base_metals,0,0,0,2,5,0,Macroom,Hibernia Meridionalis
@@ -2208,9 +2208,9 @@
 2207,hibernian,druidism,fish,0,0,0,2,5,0,Robogdia Orientalis,Hibernia Septentrionalis
 2208,hibernian,druidism,cattle,0,0,0,2,5,0,Darinia Australis,Hibernia Septentrionalis
 2209,aulercian,druidism,iron,0,1,0,3,15,0,Sipia Occidentalis,Armorica
-2210,pictonian,druidism,fish,0,2,0,3,15,0,Piktonion Akron,Namnetia
+2210,pictonian,druidism,fish,0,2,0,3,15,0,Challans,Namnetia
 2211,pictonian,druidism,base_metals,2,3,1,4,15,0,Ratiarum,Namnetia
-2212,aulercian,druidism,hemp,0,2,0,4,15,0,Namnetum,Namnetia
+2212,aulercian,druidism,hemp,0,2,0,4,15,0,Nantes,Namnetia
 2213,taulantian,roman_pantheon,fur,2,3,3,4,30,0,Albanopolis,Illyria Graeca
 2214,aulercian,druidism,wine,0,2,0,3,15,0,Diablintum,Eburovicia
 2215,aremorican,druidism,horses,0,1,0,4,15,0,Foricum,Venellia
@@ -2222,19 +2222,19 @@
 2221,aremorican,druidism,wine,0,1,0,4,15,0,Esuvia Australis,Eburovicia
 2222,aremorican,druidism,leather,0,1,0,4,15,0,Lexoviorum,Eburovicia
 2223,aremorican,druidism,wood,0,1,0,4,15,0,Esta,Eburovicia
-2224,pictonian,druidism,fish,0,2,0,4,15,0,Pictavia Borealis,Namnetia
-2225,pictonian,druidism,salt,0,1,0,2,15,0,Pictavia Australis,Pictonia
-2226,santonian,druidism,fish,0,1,0,3,15,0,Becciacum,Pictonia
+2224,pictonian,druidism,fish,0,2,0,4,15,0,Saint-Hilaire-de-Riez,Namnetia
+2225,pictonian,druidism,salt,0,1,0,2,15,0,La Roche-sur-Yon,Pictonia
+2226,santonian,druidism,fish,0,1,0,3,15,0,La Rochelle,Pictonia
 2227,pictonian,druidism,wine,0,1,0,4,15,0,Vertavia,Namnetia
 2228,pictonian,druidism,wine,0,1,0,4,15,0,Pictonia,Pictonia
-2229,santonian,druidism,wood,1,1,1,4,20,0,Novioregum Santonum,Santonia
+2229,santonian,druidism,wood,1,1,1,4,20,0,Royan,Santonia
 2230,santonian,druidism,grain,0,1,0,4,20,0,Mediolanum Santonum,Santonia
 2231,santonian,druidism,stone,0,1,0,3,20,0,Lamnum,Santonia
 2232,santonian,druidism,wine,0,1,0,4,20,0,Tannum,Santonia
 2233,aquitani,druidism,fish,0,1,0,3,20,0,Noviomagus,Aquitania 
 2234,santonian,druidism,vegetables,1,1,0,6,20,0,Burgus,Nitiobrogia
 2235,aquitani,druidism,hemp,0,1,0,4,20,0,Akroterion,Aquitania 
-2236,aquitani,druidism,wine,0,1,0,4,20,0,Burdigala,Aquitania 
+2236,aquitani,druidism,wine,0,1,0,4,20,0,Bordeaux,Aquitania 
 2237,aquitani,druidism,salt,0,1,0,4,20,0,Losa,Aquitania 
 2238,aquitani,druidism,salt,0,1,0,4,20,0,Segosa,Aquitania 
 2239,aquitani,druidism,fish,0,1,0,4,20,0,Mosconnum,Aquitania 
@@ -2255,7 +2255,7 @@
 2254,volcae,druidism,olive,0,1,0,4,20,0,Tarusco,Volcatia
 2255,volcae,druidism,precious_metals,0,1,0,4,20,0,Carcasso,Narbonensis
 2256,volcae,druidism,stone,1,1,2,5,20,0,Narbo Martius,Narbonensis
-2257,indiketian,druidism,fish,1,2,1,3,20,0,Ruscino,Narbonensis
+2257,indiketian,druidism,fish,1,2,1,3,20,0,Perpignan,Narbonensis
 2258,volcae,druidism,marble,1,1,0,6,20,0,Usuerva,Narbonensis
 2259,volcae,druidism,fish,0,2,0,3,20,0,Baeterrae,Narbonensis
 2260,volcae,druidism,stone,0,2,1,4,20,0,Agathe,Narbonensis
