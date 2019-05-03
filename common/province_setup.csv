@@ -2316,14 +2316,14 @@
 2315,salluvian,druidism,cattle,0,3,0,4,20,0,Alès,Narbonensis
 2316,salluvian,druidism,precious_metals,3,2,3,5,20,0,Staturnae,Vocontia
 2317,salluvian,druidism,base_metals,1,3,0,4,20,0,Ucetia,Vocontia
-2318,salluvian,druidism,fish,0,1,0,4,20,0,Rosesnousia,Vocontia
-2319,salluvian,druidism,grain,0,1,0,4,20,0,Arelate,Vocontia
+2318,salluvian,druidism,fish,0,1,0,4,20,0,Arles,Vocontia
+2319,salluvian,druidism,grain,0,1,0,4,20,0,Salon-de-Provence,Vocontia
 2320,salluvian,druidism,cattle,1,3,0,5,20,0,Arausio,Vocontia
 2321,salluvian,druidism,cloth,0,3,0,6,20,0,Avignon,Vocontia
 2322,salluvian,druidism,cattle,0,1,0,4,20,0,Carpentorate,Vocontia
-2323,salluvian,roman_pantheon,salt,3,3,0,2,20,0,Aquae Sextiae,Vocontia
+2323,salluvian,roman_pantheon,salt,3,3,0,2,20,0,Marignane,Vocontia
 2324,salluvian,druidism,cattle,1,4,1,7,20,0,Vulgientium,Alpes Maritimae
-2325,massalian,roman_pantheon,stone,5,6,3,4,40,0,Massalia,Alpes Maritimae
+2325,massalian,roman_pantheon,stone,5,6,3,4,40,0,Marseille,Alpes Maritimae
 2326,santonian,druidism,wine,0,1,0,4,20,0,Decaniacum,Nitiobrogia
 2327,santonian,druidism,cloth,0,1,1,3,20,0,Acuciago,Nitiobrogia
 2328,santonian,druidism,wine,0,1,1,3,20,0,Briva,Lemovicia
@@ -3515,13 +3515,13 @@
 3514,corsian,carthaginian_pantheon,wine,3,1,1,3,35,0,Borgo,Corsica
 3515,massalian,roman_pantheon,honey,6,6,3,4,40,0,Alalia,Corsica
 3516,corsian,carthaginian_pantheon,grain,3,4,3,2,35,0,Sermigium,Corsica
-3517,salluvian,druidism,fish,3,3,2,4,20,0,Tauroention,Alpes Maritimae
+3517,salluvian,druidism,fish,3,3,2,4,20,0,Toulon,Alpes Maritimae
 3518,salluvian,druidism,cattle,1,1,3,6,20,0,Apollinaris Reiorum,Alpes Maritimae
 3519,salluvian,druidism,horses,3,1,2,5,20,0,Vasio,Alpes Cottiae
 3520,salluvian,druidism,horses,1,3,2,3,20,0,Segustero,Alpes Maritimae
-3521,salluvian,druidism,wine,2,1,0,0,20,0,Tegulata,Alpes Maritimae
+3521,salluvian,druidism,wine,2,1,0,0,20,0,Brignoles,Alpes Maritimae
 3522,salluvian,druidism,fur,3,1,1,0,20,0,Sanitium,Alpes Maritimae
-3523,salluvian,druidism,wine,1,1,0,3,20,0,Verunia,Alpes Maritimae
+3523,salluvian,druidism,wine,1,1,0,3,20,0,Aix-en-Provence,Alpes Maritimae
 3524,salluvian,druidism,hemp,2,1,2,4,20,0,Vappincum,Alpes Cottiae
 3525,salluvian,druidism,leather,1,1,1,0,20,0,Vocontiorum,Alpes Cottiae
 3526,salluvian,druidism,stone,2,1,1,2,20,0,Darentiaca,Alpes Cottiae
@@ -3538,10 +3538,10 @@
 3537,lepontic,druidism,marble,1,1,1,2,15,0,Maurienna,Alpes Graiae
 3538,lepontic,druidism,precious_metals,4,2,1,2,15,0,Voludnia,Alpes Graiae
 3539,helvetian,druidism,base_metals,3,2,0,3,15,0,Labisco,Verbigenia
-3540,salluvian,druidism,wood,2,4,0,5,20,0,Pergantion,Alpes Maritimae
-3541,salluvian,druidism,fish,1,2,1,4,20,0,Forum Iulii,Alpes Maritimae
-3542,salluvian,druidism,wine,2,3,0,5,20,0,Forum Voconii,Alpes Maritimae
-3543,salluvian,roman_pantheon,wood,1,2,1,3,15,0,Antipolis,Liguria
+3540,salluvian,druidism,wood,2,4,0,5,20,0,Cogolin,Alpes Maritimae
+3541,salluvian,druidism,fish,1,2,1,4,20,0,Fréjus,Alpes Maritimae
+3542,salluvian,druidism,wine,2,3,0,5,20,0,Draguignan,Alpes Maritimae
+3543,salluvian,roman_pantheon,wood,1,2,1,3,15,0,Cannes,Liguria
 3544,ligurian,roman_pantheon,hemp,1,1,1,0,15,0,Cemelenum,Liguria
 3545,ligurian,roman_pantheon,salt,1,4,1,6,15,0,Album Intimilium,Liguria
 3546,ligurian,roman_pantheon,fish,3,5,1,7,15,0,Album Ingaunum,Liguria
@@ -3603,37 +3603,37 @@
 3602,venetic,roman_pantheon,salt,3,1,1,9,20,0,Concordia,Venetia
 3603,venetic,roman_pantheon,wine,2,2,2,9,20,0,Opitergium,Venetia
 3604,venetic,roman_pantheon,base_metals,2,2,2,6,20,0,Reunia,Venetia
-3605,venetic,roman_pantheon,woad,2,2,5,8,20,0,Forum Iulii,Venetia
+3605,venetic,roman_pantheon,woad,2,2,5,8,20,0,Fréjus,Venetia
 3606,venetic,roman_pantheon,fish,1,1,1,8,20,0,Aquileia,Venetia
 3607,venetic,roman_pantheon,salt,2,1,3,7,20,0,Fons Timavi,Venetia
 3608,lepontic,druidism,base_metals,1,1,1,6,15,0,Mantala,Alpes Graiae
-3609,lepontic,druidism,precious_metals,4,2,2,5,15,0,Ad Publicanos,Alpes Graiae
+3609,lepontic,druidism,precious_metals,4,2,2,5,15,0,Martigny,Alpes Graiae
 3610,lepontic,druidism,stone,2,1,2,5,15,0,Darantasia,Alpes Graiae
 3611,lepontic,druidism,stone,1,3,3,3,15,0,Augusta Praetoria,Alpes Graiae
 3612,lepontic,druidism,stone,1,2,2,3,15,0,Eudracinum,Alpes Graiae
-3613,lepontic,druidism,cattle,1,2,3,5,15,0,Octodurus,Alpes Graiae
-3614,lepontic,druidism,leather,2,2,2,4,15,0,Brenodunum,Alpes Graiae
-3615,lepontic,druidism,fur,1,2,2,6,15,0,Mons Alpinus,Alpes Graiae
+3613,lepontic,druidism,cattle,1,2,3,5,15,0,Brig,Alpes Graiae
+3614,lepontic,druidism,leather,2,2,2,4,15,0,Thun,Alpes Graiae
+3615,lepontic,druidism,fur,1,2,2,6,15,0,Obergoms,Alpes Graiae
 3616,lepontic,druidism,vegetables,1,1,3,4,15,0,Curia,Alpes Graiae
 3617,lepontic,druidism,stone,1,1,2,4,20,0,Clauna,Alpes Raetiae
 3618,lepontic,druidism,fur,1,1,1,2,20,0,Sumus Lacus,Alpes Raetiae
 3619,lepontic,druidism,cattle,1,0,1,5,20,0,Clunia,Alpes Raetiae
-3620,lepontic,druidism,base_metals,2,2,2,5,15,0,Obilonna,Alpes Graiae
+3620,lepontic,druidism,base_metals,2,2,2,5,15,0,Sion,Alpes Graiae
 3621,helvetian,druidism,stone,1,1,3,0,15,0,Augusta,Verbigenia
 3622,helvetian,druidism,horses,0,2,3,0,15,0,Isarnodurum,Verbigenia
 3623,helvetian,druidism,stone,0,1,1,0,15,0,Venetonimagus,Verbigenia
-3624,helvetian,druidism,iron,1,1,2,4,15,0,Genava,Verbigenia
+3624,helvetian,druidism,iron,1,1,2,4,15,0,Geneva,Verbigenia
 3625,helvetian,druidism,stone,1,1,1,0,15,0,Iulia Equestris,Verbigenia
 3626,helvetian,druidism,horses,1,1,5,0,15,0,Antro,Verbigenia
 3627,helvetian,druidism,leather,1,1,4,0,15,0,Bodgalio,Verbigenia
 3628,helvetian,druidism,leather,0,1,2,3,15,0,Filomusiacum,Verbigenia
-3629,helvetian,druidism,stone,1,2,1,4,15,0,Lausonna,Verbigenia
-3630,helvetian,druidism,fish,0,2,0,5,15,0,Aventicum,Verbigenia
-3631,helvetian,druidism,vegetables,1,0,1,4,10,0,Petinesca,Helvetia
-3632,helvetian,druidism,wood,0,2,3,4,10,0,Salodurum,Helvetia
+3629,helvetian,druidism,stone,1,2,1,4,15,0,Lausanne,Verbigenia
+3630,helvetian,druidism,fish,0,2,0,5,15,0,Fribourg,Verbigenia
+3631,helvetian,druidism,vegetables,1,0,1,4,10,0,Bern,Helvetia
+3632,helvetian,druidism,wood,0,2,3,4,10,0,Lucerne,Helvetia
 3633,helvetian,druidism,vegetables,1,0,1,5,10,0,Vindonissa,Helvetia
 3634,helvetian,druidism,horses,0,1,1,5,10,0,Vitudurum,Helvetia
-3635,helvetian,druidism,fish,0,0,1,4,10,0,Constantia,Helvetia
+3635,helvetian,druidism,fish,0,0,1,4,10,0,Konstanz,Helvetia
 3636,vindelician,druidism,fish,1,2,1,5,20,0,Brigantium,Alpes Raetiae
 3637,vindelician,druidism,stone,1,1,0,3,10,0,Vernania,Helvetia
 3638,vindelician,druidism,wood,0,1,0,5,10,0,Cambodunum,Breunia
