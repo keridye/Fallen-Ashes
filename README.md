@@ -1,12 +1,7 @@
 # Fallen Ashes
 
-In development total conversion.
-
-## Installation
-
-N/A
+In development total conversion for Imperator: Rome set generations after a cataclysmic end to humanity's established world. The remnants, picking up the pieces, have begun to resemble the classical states of antiquity; how will history rhyme this time?
 
 ## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
-Please make sure to update tests as appropriate.
+Contributions are eagerly welcomed. 
