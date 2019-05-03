@@ -26,6 +26,11 @@ WES = "countries/england/westcountry.txt"
 CUM = "countries/england/cumbria.txt"
 MAN = "countries/england/mann.txt"
 LAN = "countries/england/lancashire.txt"
+YOR = "countries/england/yorkshire.txt"
+LIV = "countries/england/liverpool.txt"
+MAR = "countries/england/manchester.txt"
+ANG = "countries/england/anglia.txt"
+CAM = "countries/england/cambridge.txt"
 
 # Italy #
 
@@ -201,9 +206,6 @@ MRS = "countries/italia/marsia.txt"
 SIO = "countries/italia/sipontum.txt"
 SYR = "countries/italia/syracusae.txt"
 ACR = "countries/italia/acragas.txt"
-
-# English
-
 
 
 #Iberian
@@ -536,7 +538,6 @@ RAM = "countries/germania/raumaricia.txt"
 HRE = "countries/germania/herules.txt"
 VRI = "countries/germania/varinia.txt"
 LGI = "countries/germania/lugia.txt"
-ANG = "countries/germania/anglia.txt"
 AES = "countries/germania/aestia.txt"
 LVA = "countries/germania/lemovia.txt"
 SMN = "countries/germania/semnonia.txt"

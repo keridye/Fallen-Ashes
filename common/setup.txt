@@ -16805,19 +16805,6 @@ country = {
 			}
 		}
 		
-		ANG = {
-			government = tribal_chiefdom
-			primary_culture = anglian
-			religion = germanic_religion
-			centralization=-50
-			
-			capital = 3861
-			
-			own_control_core = {
-				3861 3857 3860 3859 3862
-			}
-		}
-		
 		SXS = {
 			government = tribal_chiefdom
 			primary_culture = saxonian
@@ -17231,7 +17218,7 @@ country = {
 			capital = 2027
 			
 			own_control_core = {
-				2027 2042 2016 2015 2026 2025
+				2027 2042 2016 2015 2026 2025 2018
 			}
 		}		
 		
@@ -17270,7 +17257,8 @@ country = {
 			own_control_core = {
 				2108
 			}
-		}				
+		}		
+		
 		LAN = {
 			government = tribal_chiefdom
 			primary_culture = irish
@@ -17282,6 +17270,66 @@ country = {
 				2080 2073 2072 2071
 			}
 		}		
+		
+		YOR = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2075
+			
+			own_control_core = {
+				2075 2076 3058 2079 2078 2077 2088 2074
+			}
+		}	
+
+		LIV = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2047
+			
+			own_control_core = {
+				2047 2046 2059
+			}
+		}	
+
+		MAR = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2070
+			
+			own_control_core = {
+				2070 2064 2066 5433
+			}
+		}	
+		
+		ANG = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2032
+			
+			own_control_core = {
+				2032 2031 2033 2036 2029 2035 2037
+			}
+		}	
+
+		CAM = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2034
+			
+			own_control_core = {
+				2034 2051 2052 2030 2034 2044
+			}
+		}	
 	}
 }
 

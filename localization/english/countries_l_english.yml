@@ -1317,8 +1317,6 @@
  VRI_ADJ:0 "Varinian"
  LGI:0 "Lugia"
  LGI_ADJ:0 "Lugian"
- ANG:0 "Anglia"
- ANG_ADJ:0 "Anglian"
  AES:1 "Aestuia"
  AES_ADJ:0 "Aestian"
  ###Bactria
@@ -1803,4 +1801,14 @@
  MAN:0 "Mann"
  MAN_ADJ:0 "Manx"
  LAN:0 "Lancashire"
+ YOR:0 "Yorkshire"
+ YOR_ADJ:0 "Yorker"
+ LIV:0 "Liverpool"
+ LIV_ADJ: "Scouse""
+ MAR:0 "Manchester"
+ MAR_ADJ:0 "Manc"
+ ANG:0 "East Anglia"
+ ANG_ADJ:0 "Anglian"
+ CAM:0 "Cambridge"
+ 
  
