@@ -18,6 +18,24 @@ MEA = "countries/ireland/meath.txt"
 DER = "countries/ireland/derry.txt"
 LEI = "countries/ireland/leinster.txt"
 
+# England
+
+LON = "countries/england/london.txt"
+WIN = "countries/england/windsor.txt"
+WES = "countries/england/westcountry.txt"
+CUM = "countries/england/cumbria.txt"
+MAN = "countries/england/mann.txt"
+LAN = "countries/england/lancashire.txt"
+
+# Italy #
+
+# France #
+
+# Germany #
+
+# Switzerland
+SWI = "countries/switzerland/switzerland.txt"
+
 #New:
 ATH = "countries/greece/athens.txt"
 SPA = "countries/greece/sparta.txt"
@@ -184,30 +202,9 @@ SIO = "countries/italia/sipontum.txt"
 SYR = "countries/italia/syracusae.txt"
 ACR = "countries/italia/acragas.txt"
 
-#Britannic
+# English
 
-CAT = "countries/britannia/cantiaci.txt"
-DUR = "countries/britannia/durotriges.txt"
-PAS = "countries/britannia/parisi.txt"
-DUM = "countries/britannia/dumnonii.txt"
-ICE = "countries/britannia/iceni.txt"
-SIR = "countries/britannia/silures.txt"
-DEM = "countries/britannia/demetae.txt"
-COI = "countries/britannia/coritani.txt"
-DOB = "countries/britannia/dobunni.txt"
-COV = "countries/britannia/cornovii.txt"
-ORD = "countries/britannia/ordovices.txt"
-DEC = "countries/britannia/deceangli.txt"
-BRI = "countries/britannia/brigantes.txt"
-CAV = "countries/britannia/carvetii.txt"
-#ATR = "countries/britannia/atrebates.txt"
-#REG = "countries/britannia/regnenses.txt"
-#CAI = "countries/britannia/catuvellauni.txt"
-TRI = "countries/britannia/trinovantes.txt"
-CAL = "countries/britannia/caledonia.txt"
-VTD = "countries/britannia/votadinia.txt"
-DNN = "countries/britannia/damnonia.txt"
-TXL = "countries/britannia/taexalia.txt"
+
 
 #Iberian
 
@@ -243,7 +240,6 @@ GAD = "countries/iberia/gadir.txt"
 MAT = "countries/iberia/mastia.txt"
 #CTI = "countries/iberia/carteia.txt"
 SGS = "countries/iberia/saguntines.txt"
-VAD = "countries/iberia/varduli.txt"
 ORM = "countries/iberia/orgenomesci.txt"
 AVG = "countries/iberia/avarigini.txt"
 COC = "countries/iberia/concani.txt"
@@ -350,7 +346,7 @@ DOD = "countries/africa/dodekaschoinos.txt"
 
 #Gaul
 
-ABC = "countries/gaul/albici.txt"
+
 ALL = "countries/gaul/allobroges.txt"
 ARC = "countries/gaul/arecomici.txt"
 AVN = "countries/gaul/arverni.txt"
@@ -387,8 +383,6 @@ ESO = "countries/gaul/estiones.txt"
 BRG = "countries/gaul/briganti.txt"
 CTN = "countries/gaul/catenates.txt"
 TIG = "countries/gaul/tigurini.txt"
-TOU = "countries/gaul/tougeni.txt"
-VRB = "countries/gaul/verbigeni.txt"
 RAU = "countries/gaul/rauraci.txt"
 LTG = "countries/gaul/latobrigi.txt"
 SVC = "countries/gaul/sevaces.txt"

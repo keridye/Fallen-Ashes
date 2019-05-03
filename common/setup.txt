@@ -11761,254 +11761,7 @@ country = {
 		}
 		
 		#Britannia
-		
-		TXL = {
-			government = tribal_kingdom
-			primary_culture = caledonian
-			religion = druidism
-			centralization=25
 
-			capital = 2116
-
-			own_control_core = 	{
-				2116 2125
-			}
-		}
-		
-		CAL = {
-			government = tribal_kingdom
-			primary_culture = caledonian
-			religion = druidism
-			centralization=25
-
-			capital = 2120
-
-			own_control_core = 	{
-				2120 2131 2122 
-			}
-		}
-		
-		VTD = {
-			government = tribal_kingdom
-			primary_culture = votadinian
-			religion = druidism
-			centralization=25
-
-			capital = 2111
-
-			own_control_core = 	{
-				2111 2090 2089 2086 2113 2114
-			}
-		}
-		
-		DNN = {
-			government = tribal_kingdom
-			primary_culture = damnonian
-			religion = druidism
-			centralization=25
-
-			capital = 2112
-
-			own_control_core = 	{
-				2112 2109 2110 2091 2124 2117
-			}
-		}
-		
-		CAT = {
-			government = tribal_kingdom
-			primary_culture = cantian
-			religion = druidism
-			centralization=50
-
-			capital = 2021
-
-			own_control_core = 	{
-				2020 2021 2022 2023 2019 2018 2027
-			}
-		}
-		
-		DUR = {
-			government = tribal_kingdom
-			primary_culture = durotrigan
-			religion = druidism
-			centralization=50
-
-			capital = 2007
-
-			own_control_core = 	{
-				2007 2010 2013 2014 2011 2017 2015 2016
-			}
-		}
-		
-		PAS = {
-			government = tribal_kingdom
-			primary_culture = brigantic
-			religion = druidism
-			centralization=25
-
-			capital = 2076
-
-			own_control_core = 	{
-				2075 2076 2079
-			}
-		}
-		
-		DUM = {
-			government = tribal_kingdom
-			primary_culture = dumnonian
-			religion = druidism
-			centralization=50
-
-			capital = 2003
-
-			own_control_core = 	{
-				2000 2001 2002 2003 2004 2005 2006 2008
-			}
-		}
-		
-		ICE = {
-			government = tribal_kingdom
-			primary_culture = iceni
-			religion = druidism
-			centralization=50
-
-			capital = 2032
-
-			own_control_core = 	{
-				2031 2032 2033 2035 2037 2052 2034 2051
-			}
-		}
-		
-		SIR = {
-			government = tribal_kingdom
-			primary_culture = demetian
-			religion = druidism
-			centralization=25
-
-			capital = 2040
-
-			own_control_core = 	{
-				2040 2092 2093 2098
-			}
-		}
-		
-		DEM = {
-			government = tribal_kingdom
-			primary_culture = demetian
-			religion = druidism
-			centralization=25
-
-			capital = 2096
-
-			own_control_core = 	{
-				2094 2095 2096 2097 2099
-			}
-		}
-		
-		COI = {
-			government = tribal_kingdom
-			primary_culture = coritani
-			religion = druidism
-			centralization=25
-
-			capital = 2054
-
-			own_control_core = 	{
-				3057 2053 2054 2055 2057 2058 2062 2063 2065 2067 2068 2069 5433 2044
-			}
-		}
-		
-		DOB = {
-			government = tribal_kingdom
-			primary_culture = dobunnian
-			religion = druidism
-			centralization=25
-
-			capital = 2039
-
-			own_control_core = 	{
-				2009 2024 2039 2041 2048 2049 2050 2061 2012 2025 2026 2043 2045
-			}
-		}
-		
-		COV = {
-			government = tribal_kingdom
-			primary_culture = cornovian
-			religion = druidism
-			centralization=25
-
-			capital = 2059
-
-			own_control_core = 	{
-				2046 2047 2056 2059 2060 2064 2066
-			}
-		}
-		
-		ORD = {
-			government = tribal_kingdom
-			primary_culture = ordovitian
-			religion = druidism
-			centralization=25
-
-			capital = 2102
-
-			own_control_core = 	{
-				2100 2101 2102 2103 2104 2105
-			}
-		}
-		
-		DEC = {
-			government = tribal_kingdom
-			primary_culture = ordovitian
-			religion = druidism
-			centralization=25
-
-			capital = 2106
-
-			own_control_core = 	{
-				2106 2107
-			}
-		}
-		
-		BRI = {
-			government = tribal_kingdom
-			primary_culture = brigantic
-			religion = druidism
-			centralization=25
-
-			capital = 2077
-
-			own_control_core = 	{
-				3058 3059 3060 2070 2071 2072 2073 2074 2077 2078 2080 2081 2085 2087 2088 5434
-			}
-		}
-		
-		CAV = {
-			government = tribal_kingdom
-			primary_culture = brigantic
-			religion = druidism
-			centralization=25
-
-			capital = 2083
-
-			own_control_core = 	{
-				2083 2084 5432 2082
-			}
-		}
-		
-		TRI = {
-			government = tribal_kingdom
-			primary_culture = trinovantian
-			religion = druidism
-			centralization=50
-
-			capital = 2028
-
-			own_control_core = 	{
-				2028 2029 2030 2036 2038 2042
-			}
-		}
-		
 		#IBERIA
 		
 		BLD = {
@@ -12565,19 +12318,6 @@ country = {
 			}
 		}
 		
-		VAD = {
-			government = tribal_kingdom
-			primary_culture = vasconian
-			religion = animism
-			centralization=50
-
-			capital = 1017
-
-			own_control_core = 	{
-				1017 1083 1082 1078 1084 1087 1085 
-			}
-		}
-		
 		CNT = {
 			government = tribal_kingdom
 			primary_culture = contestanian
@@ -12753,18 +12493,6 @@ country = {
 			}
 		}
 		
-		ABC = {
-			government = tribal_kingdom
-			primary_culture = salluvian
-			religion = druidism
-			centralization=50
-
-			capital = 3518
-
-			own_control_core = 	{
-				3518 3520 2324 3522
-			}
-		}
 		
 		DCA = {
 			government = tribal_kingdom
@@ -13157,30 +12885,17 @@ country = {
 			}
 		}
 		
-		TOU = {
+		SWI = {
 			government = tribal_kingdom
 			primary_culture = helvetian
 			religion = druidism
 			centralization=50
 
-			capital = 3633
+			capital = 3625
 
 			own_control_core = 	{
-				3633 3632 3631 
- 			}
-		}
-		
-		VRB = {
-			government = tribal_kingdom
-			primary_culture = helvetian
-			religion = druidism
-			centralization=50
-
-			capital = 3629
-
-			own_control_core = 	{
-				3629 3630 3625 3627 3628
- 			}
+				3625 3629 3630 3631 3632 3633
+			}
 		}
 		
 		BRG = {
@@ -17410,7 +17125,7 @@ country = {
 			}
 		}
 		 
-		ULS = { #Ulster
+		ULS = { 
 			government = aristocratic_monarchy
 			primary_culture = irish
 			religion = carthaginian_pantheon
@@ -17491,6 +17206,80 @@ country = {
 			
 			own_control_core = {
 				2187 2186 2188 2189 2164
+			}
+		}
+
+		# ENGLISH #
+		
+		LON = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2022
+			
+			own_control_core = {
+				2022 2023 2021 2020 2028 2038
+			}
+		}		
+		
+		WIN = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2027
+			
+			own_control_core = {
+				2027 2042 2016 2015 2026 2025
+			}
+		}		
+		
+		WES = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2003
+			
+			own_control_core = {
+				2001 2003 2004 2005 2006 2008
+			}
+		}		
+		
+		CUM = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2083
+			
+			own_control_core = {
+				2083 2082 2081 2084 5432
+			}
+			
+		}
+		
+		MAN = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2108
+			
+			own_control_core = {
+				2108
+			}
+		}				
+		LAN = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2080
+			
+			own_control_core = {
+				2080 2073 2072 2071
 			}
 		}		
 	}
