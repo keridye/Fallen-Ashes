@@ -7,12 +7,6 @@ diplomacy = {
 	}
 	
 	defensive_league = {
-		member = MAS
-		member = EPO
-		member = HMK
-	}
-	
-	defensive_league = {
 		member = GAD
 		#member = CTI
 		member = MST
@@ -78,7 +72,6 @@ diplomacy = {
 	alliance = { first = ETR second = FNT }
 	
 	#Carthage
-	dependency = { first = CAR second = BLD subject_type = feudatory }
 	#dependency = { first = CAR second = CTI subject_type = feudatory }
 	#dependency = { first = CAR second = MLK subject_type = feudatory }
 	dependency = { first = CAR second = MSL subject_type = vassal_tribe }
@@ -167,10 +160,7 @@ diplomacy = {
 	dependency = { first = PRY second = KNI subject_type = feudatory } #Knidos
 	dependency = { first = PRY second = AST subject_type = feudatory } #Astakos
 	dependency = { first = PRY second = KZK subject_type = feudatory } #Kyzikos
-	
-	#Mauryans
-	dependency = { first = MRY second = ATV subject_type = tributary } #Atavis
-	 
+
 	
 	MAC = {
 		EGY = {
@@ -11299,20 +11289,7 @@ country = {
 				3660 3659 3663 3658 3656 3655 3654 3666 3665 
 			}
 		}
-		
-		BRE = {
-			government = tribal_kingdom
-			primary_culture = rhaetian
-			religion = druidism
-			centralization=50
 
-			capital = 3667 
-		
-			own_control_core = 	{
-				3667 3668 3669 3664
-			}
-		}
-		
 		#Italiot League (Croton, Thurii, Metapontum, Rhegium, Herakleia, Hipponium)#
 		
 		MET = {
@@ -11731,51 +11708,11 @@ country = {
 			
 		}
 		
-		#Massalia
-		MAS = {
-			government = plutocratic_republic
-			primary_culture = massalian
-			diplomatic_stance=trading_stance
-			religion = roman_pantheon
 
-			capital = 2325
-
-			own_control_core = 	{
-				2325 3543 2260 3517
-			}
-			
-		}
-		
-		HMK = {
-			government = plutocratic_republic
-			primary_culture = massalian
-			diplomatic_stance=trading_stance
-			religion = roman_pantheon
-
-			capital = 1031
-
-			own_control_core = 	{
-				1031 1032
-			}
-			
-		}
-		
 		#Britannia
 
 		#IBERIA
-		
-		BLD = {
-			government = plutocratic_republic
-			primary_culture = carthaginian
-			religion = carthaginian_pantheon
 
-			capital = 1465
-
-			own_control_core = 	{
-				1465 1464 1466 1467 1468 1469
-			}
-		}
-		
 		AMC = {
 			government = tribal_kingdom
 			primary_culture = asturian
@@ -12479,412 +12416,7 @@ country = {
 		}
 		
 		#GAUL
-		
-		BOA = {
-			government = tribal_chiefdom
-			primary_culture = boian
-			religion = druidism
-			centralization=50
-			
-			capital = 3938
-			
-			own_control_core = {
-				3938 3939 3931 3935 3937 3914 3916 3923 3933 3917 3819 3934 3817 3818 3936
-			}
-		}
-		
-		
-		DCA = {
-			government = tribal_kingdom
-			primary_culture = salluvian
-			religion = druidism
-			centralization=50
 
-			capital = 3542
-
-			own_control_core = 	{
-				3542 3540
-			}
-		}
-		
-		OXB = {
-			government = tribal_kingdom
-			primary_culture = ligurian
-			religion = druidism
-			centralization=50
-
-			capital = 3541
-
-			own_control_core = 	{
-				3541
-			}
-		}
-		
-		SLV = {
-			government = tribal_kingdom
-			primary_culture = salluvian
-			religion = druidism
-			centralization=50
-
-			capital = 3523
-
-			own_control_core = 	{
-				3521 3523 2323 2319
-			}
-		}
-		
-		CTR = {
-			government = tribal_kingdom
-			primary_culture = lepontic
-			religion = druidism
-			centralization=50
-
-			capital = 3536
-
-			own_control_core = 	{
-				3529 3524 3536 3530 3532
-			}
-		}
-		
-		VOC = {
-			government = tribal_kingdom
-			primary_culture = salluvian
-			religion = druidism
-			centralization=50
-
-			capital = 3519
-
-			own_control_core = 	{
-				3528 3519 2322 2321 2320 3527 3533 3525 3526 2310
-			}
-		}
-		
-		HVI = {
-			government = tribal_kingdom
-			primary_culture = salluvian
-			religion = druidism
-			centralization=50
-
-			capital = 2311
-
-			own_control_core = 	{
-				2309 2311 2316 2317 2308
-			}
-		}
-		
-		ARC = {
-			government = tribal_kingdom
-			primary_culture = salluvian
-			religion = druidism
-			centralization=50
-
-			capital = 2314
-
-			own_control_core = 	{
-				2313 2318 2314 2315 2312
-			}
-		}
-		
-		TCT = {
-			government = tribal_kingdom
-			primary_culture = volcae
-			religion = druidism
-			centralization=50
-
-			capital = 2265
-
-			own_control_core = 	{
-				2261 2262 2263 2267 2265 2254 2255
-			}
-		}
-		
-		SRB = {
-			government = tribal_kingdom
-			primary_culture = volcae
-			religion = druidism
-			centralization=50
-
-			capital = 2256
-
-			own_control_core = 	{
-				2256 2259 2258 1079
-			}
-		}
-		
-		CNS = {
-			government = tribal_kingdom
-			primary_culture = aquitani
-			religion = druidism
-			centralization=50
-
-			capital = 2253
-
-			own_control_core = 	{
-				2253 2276 2266
-			}
-		}
-		
-		RUT = {
-			government = tribal_kingdom
-			primary_culture = aquitani
-			religion = druidism
-			centralization=50
-
-			capital = 2297
-
-			own_control_core = 	{
-				2297 2285 2295 2296 2286 3309
-			}
-		}
-		
-		ALL = {
-			government = tribal_kingdom
-			primary_culture = helvetian
-			religion = druidism
-			centralization=50
-
-			capital = 2304
-
-			own_control_core = 	{
-				2304 2306 2307 2305 2303 3624 3623 3621 3539
-			}
-		}
-		
-		SGL = {
-			government = tribal_kingdom
-			primary_culture = arverni
-			religion = druidism
-			centralization=50
-
-			capital = 2302
-
-			own_control_core = 	{
-				2301 2302 2364 2356 2357
-			}
-		}
-		
-		AVN = {
-			government = tribal_federation
-			primary_culture = arverni
-			religion = druidism
-			centralization=50
-
-			capital = 2284
-
-			own_control_core = 	{
-				2284 2298 2299 2371 2373 2375 2300 1719 2342 2376 2374 2372 2370
-			}
-		}
-		
-		NTB = {
-			government = tribal_kingdom
-			primary_culture = santonian
-			religion = druidism
-			centralization=50
-
-			capital = 2270
-
-			own_control_core = 	{
-				2270 2269 2268 2280 2294 2293 2326 2335 2292
-			}
-		}
-		
-		BIG = {
-			government = tribal_kingdom
-			primary_culture = aquitani
-			religion = druidism
-			centralization=50
-
-			capital = 2252
-
-			own_control_core = 	{
-				2252 2251 2277
-			}
-		}
-		
-		ASC = {
-			government = tribal_kingdom
-			primary_culture = aquitani
-			religion = druidism
-			centralization=50
-
-			capital = 2275
-
-			own_control_core = 	{
-				2275 2278 2279 2271 2273
- 			}
-		}
-		
-		TRB = {
-			government = tribal_kingdom
-			primary_culture = aquitani
-			religion = druidism
-			centralization=50
-
-			capital = 2243
-
-			own_control_core = 	{
-				2243 2240 2239 2244 2238
- 			}
-		}
-		
-		SBZ = {
-			government = tribal_kingdom
-			primary_culture = aquitani
-			religion = druidism
-			centralization=50
-
-			capital = 2248
-
-			own_control_core = 	{
-				2248 2246 2247 2249
- 			}
-		}
-		
-		VCT = {
-			government = tribal_kingdom
-			primary_culture = aquitani
-			religion = druidism
-			centralization=50
-
-			capital = 2272
-
-			own_control_core = 	{
-				2288 2272 2281
- 			}
-		}
-		
-		CCS = {
-			government = tribal_kingdom
-			primary_culture = biturigan
-			religion = druidism
-			centralization=50
-
-			capital = 2237
-
-			own_control_core = 	{
-				2237 2241 2245
- 			}
-		}
-		
-		BTU = {
-			government = tribal_kingdom
-			primary_culture = biturigan
-			religion = druidism
-			centralization=50
-
-			capital = 2236
-
-			own_control_core = 	{
-				2236 2235 2233 2234 2289
- 			}
-		}
-		
-		TRS = {
-			government = tribal_kingdom
-			primary_culture = aquitani
-			religion = druidism
-			centralization=50
-
-			capital = 2250
-
-			own_control_core = 	{
-				2274 2250 2242
- 			}
-		}
-		
-		PTC = {
-			government = tribal_kingdom
-			primary_culture = santonian
-			religion = druidism
-			centralization=50
-
-			capital = 2282
-
-			own_control_core = 	{
-				2282 2287 2327 2329 2328 2338 2339 
- 			}
-		}
-		
-		LMV = {
-			government = tribal_kingdom
-			primary_culture = lemovician
-			religion = druidism
-			centralization=50
-
-			capital = 2344
-
-			own_control_core = 	{
-				2344 2340 2404 2330 2341 2331 2283 2378 2343 2332 3307 1721 2337 2346 2383 2379 2382
- 			}
-		}
-		
-		SNT = {
-			government = tribal_kingdom
-			primary_culture = santonian
-			religion = druidism
-			centralization=50
-
-			capital = 2229
-
-			own_control_core = 	{
-				2229 2232 2231 2290 3000 2291 2230 2333 2334
- 			}
-		}
-		
-		CUT = {
-			government = tribal_kingdom
-			primary_culture = lepontic
-			religion = druidism
-			centralization=50
-
-			capital = 3531
-
-			own_control_core = 	{
-				3531 3538 3537 3608
- 			}
-		}
-		
-		SLS = {
-			government = tribal_kingdom
-			primary_culture = lepontic
-			religion = druidism
-			centralization=50
-
-			capital = 3611
-
-			own_control_core = 	{
-				3561 3611 3610 3609 3620 3613 3612
- 			}
-		}
-		
-		LPO = {
-			government = tribal_kingdom
-			primary_culture = lepontic
-			religion = druidism
-			centralization=50
-
-			capital = 3617
-
-			own_control_core = 	{
-				3618 3657 3617 3616 3615 3614 3619
- 			}
-		}
-		
-		#Vindelicia
-		TIG = {
-			government = tribal_kingdom
-			primary_culture = helvetian
-			religion = druidism
-			centralization=50
-
-			capital = 3634
-
-			own_control_core = 	{
-				3634 3635 3732 3731
-			}
-		}
-		
 		SWI = {
 			government = tribal_kingdom
 			primary_culture = helvetian
@@ -12894,673 +12426,11 @@ country = {
 			capital = 3625
 
 			own_control_core = 	{
-				3625 3629 3630 3631 3632 3633
+				3625 3629 3630 3631 3632 3633 3614 3615 3613 3620 3609 3616 3617 3618 3636 3634
 			}
 		}
-		
-		BRG = {
-			government = tribal_kingdom
-			primary_culture = vindelician
-			religion = druidism
-			centralization=50
 
-			capital = 3636
 
-			own_control_core = 	{
-				3636 3637 3639 3739
-			}
-		}
-		
-		ESO = {
-			government = tribal_kingdom
-			primary_culture = vindelician
-			religion = druidism
-			centralization=50
-
-			capital = 3638
-
-			own_control_core = 	{
-				3638 3740 3747 3750
-			}
-		}
-		
-		VNN = {
-			government = tribal_kingdom
-			primary_culture = vindelician
-			religion = druidism
-			centralization=50
-
-			capital = 3640
-
-			own_control_core = 	{
-				3640 3641 3751 3642 3753
-			}
-		}
-		
-		CTN = {
-			government = tribal_kingdom
-			primary_culture = vindelician
-			religion = druidism
-			centralization=50
-
-			capital = 3752
-
-			own_control_core = 	{
-				3752 3757 3755 3754 3749 3748
-			}
-		}
-		
-		TLG = {
-			government = tribal_kingdom
-			primary_culture = vindelician
-			religion = druidism
-			centralization=50
-
-			capital = 3744
-
-			own_control_core = 	{
-				3744 3745 3746 3733 3741 
-			}
-		}
-		
-		RAU = {
-			government = tribal_kingdom
-			primary_culture = helvetian
-			religion = druidism
-			centralization=50
-
-			capital = 3012
-
-			own_control_core = 	{
-				3012 
-			}
-		}
-		
-		LTG = {
-			government = tribal_kingdom
-			primary_culture = vindelician
-			religion = druidism
-			centralization=50
-
-			capital = 3742
-
-			own_control_core = 	{
-				3742 3743 3770 3736 3734 3771 3772 3769 3775 3774 3767 3768 3766 3773 3765 
-			}
-		}
-		
-		SVC = {
-			government = tribal_kingdom
-			primary_culture = noric
-			religion = druidism
-			centralization=50
-
-			capital = 3760
-
-			own_control_core = 	{
-				3760 3761 3756 3759 3758
-			}
-		}
-		
-		BGT = {
-			government = tribal_kingdom
-			primary_culture = biturigan
-			religion = druidism
-			centralization=50
-
-			capital = 2347
-
-			own_control_core = 	{
-				2347 2368 2367 2412 2414 2416 2408 2407 2411 2406 2410 2409 2377 2381 2380  
-			}
-		}
-		
-		TRO = {
-			government = tribal_kingdom
-			primary_culture = pictonian
-			religion = druidism
-			centralization=50
-
-			capital = 2394
-
-			own_control_core = 	{
-				2394 2395 2421 2423 2349 2420 2419 2405 2422
-			}
-		}
-		
-		ADC = {
-			government = tribal_kingdom
-			primary_culture = lemovician
-			religion = druidism
-			centralization=50
-
-			capital = 2385
-
-			own_control_core = 	{
-				2385 2386 2384 2387 2388 2389
-			}
-		}
-		
-		PCS = {
-			government = tribal_kingdom
-			primary_culture = pictonian
-			religion = druidism
-			centralization=50
-
-			capital = 2345
-
-			own_control_core = 	{
-				2345 2390 2396 2392 2399 2391 2393 2397 2398 2226 2225 2228 2227 2224 2210 2211
-			}
-		}
-		
-		NMN = {
-			government = tribal_kingdom
-			primary_culture = aulercian
-			religion = druidism
-			centralization=50
-
-			capital = 2212
-
-			own_control_core = 	{
-				2212 2153 2147 2209 3308 2352 2400 
-			}
-		}
-		
-		CRN = {
-			government = tribal_kingdom
-			primary_culture = biturigan
-			religion = druidism
-			centralization=50
-
-			capital = 2441
-
-			own_control_core = 	{
-				2441 2478 2350 2457 2425 2424 2426 2458 2460 2461
-			}
-		}
-		
-		CMI = {
-			government = tribal_kingdom
-			primary_culture = aulercian
-			religion = druidism
-			centralization=50
-
-			capital = 2459
-
-			own_control_core = 	{
-				2351 2459 2456 2401 2402 
-			}
-		}
-		
-		VTN = {
-			government = tribal_kingdom
-			primary_culture = aremorican
-			religion = druidism
-			centralization=50
-
-			capital = 2148 
-
-			own_control_core = 	{
-				2148 2154 2149 
-			}
-		}
-		
-		CIO = {
-			government = tribal_kingdom
-			primary_culture = aremorican
-			religion = druidism
-			centralization=50
-
-			capital = 2156 
-
-			own_control_core = 	{
-				2156 2146 2142 2141
-			}
-		}
-		
-		OSM = {
-			government = tribal_kingdom
-			primary_culture = aremorican
-			religion = druidism
-			centralization=50
-
-			capital = 2150 
-
-			own_control_core = 	{
-				2150 2155 2152 2151 2160 2158 2159 2157
-			}
-		}
-		
-		RDO = {
-			government = tribal_kingdom
-			primary_culture = aremorican
-			religion = druidism
-			centralization=50
-
-			capital = 2143 
-
-			own_control_core = 	{
-				2143 2145 2215 2144 2403
-			}
-		}
-		
-		DBL = {
-			government = tribal_kingdom
-			primary_culture = aremorican
-			religion = druidism
-			centralization=50
-
-			capital = 2214 
-
-			own_control_core = 	{
-				2214 2217 
-			}
-		}
-		
-		EBV = {
-			government = tribal_kingdom
-			primary_culture = aulercian
-			religion = druidism
-			centralization=50
-
-			capital = 2442 
-
-			own_control_core = 	{
-				2442 2462 2463 2464 2219 2465 2466
-			}
-		}
-		
-		ESV = {
-			government = tribal_kingdom
-			primary_culture = aremorican
-			religion = druidism
-			centralization=50
-
-			capital = 2138 
-
-			own_control_core = 	{
-				2138 2220 2221
-			}
-		}
-		
-		LXV = {
-			government = tribal_kingdom
-			primary_culture = aremorican
-			religion = druidism
-			centralization=50
-
-			capital = 2222 
-
-			own_control_core = 	{
-				2222 2218 2467 2223
-			}
-		}
-		
-		VCL = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 2443 
-
-			own_control_core = 	{
-				2443 2473 2474 2469 2472 2444
-			}
-		}
-		
-		VNL = {
-			government = tribal_kingdom
-			primary_culture = aremorican
-			religion = druidism
-			centralization=50
-
-			capital = 2136
-
-			own_control_core = 	{
-				2136 2139 2140 2137 2135 2134 2216 5431
-			}
-		}
-		
-		AMB = {
-			government = tribal_kingdom
-			primary_culture = noric
-			religion = druidism
-			centralization=50
-
-			capital = 3622
-
-			own_control_core = 	{
-				3622 3626
-			}
-		}
-		
-		SQI = {
-			government = tribal_kingdom
-			primary_culture = helvetian
-			religion = druidism
-			centralization=50
-
-			capital = 2355
-
-			own_control_core = 	{
-				2355 2361 2359 2358 2363 2427 3010 3011 3009
-			}
-		}
-		
-		AED = {
-			government = tribal_kingdom
-			primary_culture = haedui
-			religion = druidism
-			centralization=50
-
-			capital = 2348
-
-			own_control_core = 	{
-				2348 2366 2369 2365 2360 2435 2437 2438 2434 2413 2439 2362
-			}
-		}
-		
-		LNG = {
-			government = tribal_kingdom
-			primary_culture = haedui
-			religion = druidism
-			centralization=50
-
-			capital = 2354
-
-			own_control_core = 	{
-				2354 2429 2436 2433 3004 3003 3015 3014 3013 3016 2428
-			}
-		}
-		
-		MDB = {
-			government = tribal_kingdom
-			primary_culture = haedui
-			religion = druidism
-			centralization=50
-
-			capital = 2440
-
-			own_control_core = 	{
-				2440 2431 2430 2432 2415 
-			}
-		}
-		
-		SNN = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 2448
-
-			own_control_core = 	{
-				2448 2482 2486 2488 2489 2480 2353 2418 2417 2479
-			}
-		}
-		
-		TRC = {
-			government = tribal_kingdom
-			primary_culture = haedui
-			religion = druidism
-			centralization=50
-
-			capital = 2449
-
-			own_control_core = 	{
-				2449 3005 3008 3006 3007 2496
-			}
-		}
-		
-		PRS = {
-			government = tribal_kingdom
-			primary_culture = biturigan
-			religion = druidism
-			centralization=50
-
-			capital = 2475
-
-			own_control_core = 	{
-				2475 2477 2476 2481 2483 2485
-			}
-		}
-		
-		CTL = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 2450
-
-			own_control_core = 	{
-				2450 2487 2490 2491 2495
-			}
-		}
-		
-		TBC = {
-			government = tribal_kingdom
-			primary_culture = helvetian
-			religion = druidism
-			centralization=50
-
-			capital = 3023
-
-			own_control_core = 	{
-				3023 3025 3021 3020 3024 3019 3022 3018
-			}
-		}
-		
-		LCI = {
-			government = tribal_kingdom
-			primary_culture = haedui
-			religion = druidism
-			centralization=50
-
-			capital = 2453
-
-			own_control_core = 	{
-				2453 3002 2499 3017 2497 2498
-			}
-		}
-		
-		MDM = {
-			government = tribal_kingdom
-			primary_culture = treverian
-			religion = druidism
-			centralization=50
-
-			capital = 2454
-
-			own_control_core = 	{
-				2454 3691 3692 3694 3695 3696
-			}
-		}
-		
-		NMI = {
-			government = tribal_kingdom
-			primary_culture = treverian
-			religion = druidism
-			centralization=50
-
-			capital = 3697
-
-			own_control_core = 	{
-				3697 3693 3053 3054 3052 3738 3735
-			}
-		}
-		
-		TVI = {
-			government = tribal_kingdom
-			primary_culture = treverian
-			religion = druidism
-			centralization=50
-
-			capital = 3690
-
-			own_control_core = 	{
-				3690 3724 3725 3723 3722 3726 3721 3730 3689 3685 3729 3728 3688 3001 2455 2494 3050 3686 3687 
-			}
-		}
-		
-		ADT = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 3681
-
-			own_control_core = 	{
-				3681 3682 3719 3718 3727 3720 3717 3716
-			}
-		}
-		
-		CGN = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 3714 
-
-			own_control_core = 	{
-				3714 3715
-			}
-		}
-		
-		EBS = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 3708 
-
-			own_control_core = 	{
-				3708 3709 3710 3706 3707 3680
-			}
-		}
-		
-		MNP = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 3028 
-
-			own_control_core = 	{
-				3028 3675 3677 3843 3844 3678 3713 3711 3712 3676 3845 3849
-			}
-		}
-		
-		CLT = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 2468
-
-			own_control_core = 	{
-				2468 2470 2471 3034
-			}
-		}
-		
-		ABM = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 3035
-
-			own_control_core = 	{
-				3035 3033
-			}
-		}
-		
-		MRN = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 3027
-
-			own_control_core = 	{
-				3027 3026 3029 3030 3040 3037 3036 3039
-			}
-		}
-		
-		SSS = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 2452
-
-			own_control_core = 	{
-				2452 2492 2447 2484
-			}
-		}
-		
-		BLV = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 2446
-
-			own_control_core = 	{
-				2446 2445 3032 2493
-			}
-		}
-		
-		VMD = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 3043
-
-			own_control_core = 	{
-				3043 3044 3031 3038 
-			}
-		}
-		
-		NRV = {
-			government = tribal_kingdom
-			primary_culture = belgae
-			religion = druidism
-			centralization=50
-
-			capital = 3042
-
-			own_control_core = 	{
-				3042 3046 3045 3047 3041 3679 3705 3704
-			}
-		}
-		
-		RMI = {
-			government = tribal_kingdom
-			primary_culture = treverian
-			religion = druidism
-			centralization=50
-
-			capital = 2451
-
-			own_control_core = 	{
-				2451 3049 3048 3051 3703 3684 3683
-			}
-		}
-		
 		### IBERIA
 		
 		PAE = {
@@ -16164,61 +15034,6 @@ country = {
 			}
 		}
 		
-		MRY = {
-			government = aristocratic_monarchy
-			primary_culture = magadhi
-			religion = hindu
-			diplomatic_stance=appeasement_stance
-			capital = 4440 # Pataliputra
-			
-			own_control_core = {
-				4353 4354 4356 4357 4358 4359 4360 4363 6827 7660 #sauvira_region
-				4489 6826 6850 6851 6853 6856 6857 7412 7414 7220 7415 #abhiria_region
-				4487 4491 4488 4495 4496 6843 7310 7390 7413 7417 7432 7658 #maru_region
-				4473 4480 7428 7431 7434 7435 7436 7438 7439 7442 7448 7466 #madhyamika_region
-				4438 4439 4472 4481 4484 7309 7387 7388 7389 7437 7440 7443 #matsya_region
-				4420 4469 7305 7306 7307 7308 7444 7445 7446 7447 7460 7465 #surasena_region
-				4434 4435 4466 4485 7219 7409 7376 7470 7471 7472 #west_cedi_region
-				4428 4429 4430 4433 4465 7370 7371 7373 7473 7476 #kasi_region
-				4425 4426 4427 4436 7375 7404 7218 7408 7410 7411 #pancala_region
-				4424 4453 4456 7377 7381 7403 7405 7406 7407 7378 #ahicchatra_region
-				4437 4451 4455 7374 7379 7380 7382 7482 7483 7484 #kosala_region
-				4448 4459 4460 4461 4464 7360 7479 7481 7486 7487 7488 7489 #vrji_region
-				4441 4449 4450 4457 4458 7369 7372 7384 7477 7478 #malla_region
-				4440 4442 4443 4444 4445 4462 4463 7367 7338 7400 7659 7480 #magadha_region
-				4446 4447 7327 7328 7337 7345 7364 7365 7368 7392 #anga_region
-				7324 7325 7326 7335 7398 7493 7497 7498 7499 7651 #pundra_region
-				7177 7178 7362 7363 7366 7391 #radha_region
-				7329 7330 7336 7358 7359 7393 7394 7395 7396 7397 #vanga_region
-				7322 7323 7383 7343 7344 7346 7650 7652 7653 7654 7655 7656 #kamata_region
-				4402 4403 4411 4419 4387 4417 7385 7386 7402 7485 #sthanisvara_region
-				4401 4408 4409 4410 4414 4415 4416 4390 4392 4418 #trigarta_region
-				4404 4405 4406 4407 4412 4413 4421 4422 4423 4452 4454 #kuru_region
-				4300 4301 4323 4324 4325 4367 4370 4490 6751 6997 7319 7657 #gandhara_region
-				4308 4316 4317 4318 4320 4322 4326 4327 4328 4329 7314 7492 #taxila_region
-				3810 4332 4333 4334 4335 4336 4337 4338 4339 4341 4343 7361 #kasmira_region
-				4331 4380 4384 4388 4393 4395 4396 4397 4398 4399 7399 #panchanada_region
-				4315 4340 4342 4344 4345 4346 4347 4379 4389 4391 4394 4400 #madra_region
-				4319 4321 4330 4348 4350 4351 4383 4385 4386 #sivi_region
-				4349 4371 4373 4374 4378 4372 4375 4377 4381 4382 #north_sindhu_region
-				6833 6840 6844 6845 6841 6825 6842 #kaccha_region
-				7158 7163 7164 7147 7165 7157 #vidarbha_region
-				7067 7151 7077 7076 7115 7094 7075 7124 7162 7317 7456 #fanindrapura_region
-				4475 4479 4482 4486 4498 7425 7426 7301 7304 7433 7441 7450 #avanti_region
-				4476 4492 4493 7311 7315 7316 7420 7421 7422 7424 #anupa_region
-				4483 7312 7313 7452 7457 #dahala_region
-				4470 4474 7302 7303 7449 7461 7462 7463 7464 7469 #dasarna_region
-				4478 4497 4499 7300 7416 7418 7419 7427 7429 7430 #anartta_region
-				6854 6855 6858 6859 #aparanta_region
-				6813 6823 6816 6817 6824 6814 6819 6818 6828 6834 6829 #outer_saurashtra_region
-				4494 6831 6835 6820 6839 6832 6846 6847 6838 6837 6836 6830 #inner_saurashtra_region
-				4352 4355 4361 4362 4364 4365 4366 4368 4369 4376 #south_sindhu_region
-				6526 6527 6531 6532 6536 6815 6821 6822 6848 6852 6849 #patalene_region
-				7097 7121 7318 7423 5584 5587 
-			}
-			
-		}
-		
 		SHU = {
 			government = despotic_monarchy
 			primary_culture = saka
@@ -17196,7 +16011,7 @@ country = {
 			}
 		}
 
-		# ENGLISH #
+		# ENGLAND #
 		
 		LON = {
 			government = tribal_chiefdom
@@ -17206,7 +16021,7 @@ country = {
 			capital = 2022
 			
 			own_control_core = {
-				2022 2023 2021 2020 2028 2038
+				2022 2023 2021 2020 2028 2038 2019
 			}
 		}		
 		
@@ -17218,7 +16033,7 @@ country = {
 			capital = 2027
 			
 			own_control_core = {
-				2027 2042 2016 2015 2026 2025 2018
+				2027 2042 2016 2015 2026 2025 2018 2013 2017 2014
 			}
 		}		
 		
@@ -17329,7 +16144,122 @@ country = {
 			own_control_core = {
 				2034 2051 2052 2030 2034 2044
 			}
+		}
+
+		# Scotland
+		
+
+		ABE = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2116
+			
+			own_control_core = {
+				2116 2125 2133 2123
+			}
+		}		
+
+		ABE = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2116
+			
+			own_control_core = {
+				2116 2125 2133 2123
+			}
+		}		
+
+		ABE = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2116
+			
+			own_control_core = {
+				2116 2125 2133 2123
+			}
+		}		
+
+		EDI = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2114
+			
+			own_control_core = {
+				2114 2111 2113 2115
+			}
+		}		
+
+		GLA = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2124
+			
+			own_control_core = {
+				2124 2112 2117
+			}
 		}	
+
+		ISL = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2128
+			
+			own_control_core = {
+				2128 2129 2130 2119 2118 2127 2126 
+			}
+		}			
+
+		HIG = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2120
+			
+			own_control_core = {
+				2120 2131 2122 2132 2121
+			}
+		}
+
+
+		DUM = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2110
+			
+			own_control_core = {
+				2110 2091 2109 2086
+			}
+		}
+
+		# France
+
+		BRI = {
+			government = tribal_chiefdom
+			primary_culture = irish
+			religion = carthaginian_pantheon
+			
+			capital = 2152
+			
+			own_control_core = {
+				2151 2152 2155 2160 2150 2155 2154 2158 2159 2148 2000 2002 2229
+			}
+		}		
+		
 	}
 }
 

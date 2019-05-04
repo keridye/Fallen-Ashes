@@ -337,3 +337,7 @@
  tibetan_femalename:1 "$NAME_FEMALE$ $FAMILY_MALE$ $NICKNAME$"
  proto_european_malename:1 "$NAME_MALE$ $FAMILY_MALE$ $NICKNAME$"
  proto_european_femalename:1 "$NAME_FEMALE$ $FAMILY_MALE$ $NICKNAME$"
+ celtic_malename:0 "$MALE$ $FAMILY_MALE$ $NICKNAME$"
+ celtic_femalename:0 "$NAME_FEMALE$ $FAMILY_MALE$ $NICKNAME$"
+ english_malename:0 "$MALE$ $FAMILY_MALE$ $NICKNAME$"
+ celtic_femalename:0 "$NAME_FEMALE$ $FAMILY_MALE$ $NICKNAME$"
