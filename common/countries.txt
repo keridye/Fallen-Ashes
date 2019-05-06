@@ -43,9 +43,16 @@ HIG = "countries/scotland/highlands.txt"
 
 # Italy #
 
+
 # France #
 
 BRI = "countries/france/brittany.txt"
+BRE = "countries/france/bretagne.txt"
+PRS = "countries/france/paris.txt"
+NOR = "countries/france/normandy.txt"
+MNC = "countries/france/manche.txt"
+SEI = "countries/france/seinemaritime.txt"
+MON = "countries/france/monaco.txt"
 
 # Germany #
 
@@ -123,7 +130,6 @@ KYD = "countries/greece/kydonia.txt"
 GRT = "countries/greece/gortyna.txt"
 IEP = "countries/greece/ierapetra.txt"
 TRA = "countries/greece/tarra.txt"
-PRE = "countries/greece/praesos.txt"
 ELT = "countries/greece/eleutherna.txt"
 
 ## Thracia/Illyria
@@ -196,7 +202,6 @@ HPO = "countries/italia/hipponium.txt"
 SCU = "countries/italia/siculia.txt"
 LGN = "countries/italia/lingones.txt"
 TAU = "countries/italia/taurini.txt"
-INM = "countries/italia/intimili.txt"
 IGN = "countries/italia/ingauni.txt"
 EPA = "countries/italia/epanterii.txt"
 INS = "countries/italia/insubri.txt"

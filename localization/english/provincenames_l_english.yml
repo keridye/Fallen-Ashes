@@ -7659,6 +7659,25 @@
  PROV7659:0 "Madanpur"
  PROV7660:0 "Abad"
  PROV7665:1 "Lacus Ligustinus"
+ 
+ # Estonia
+  
+ PROV7666:0 "Saareema"
+ PROV7667:0 "Hiumaa"
+ PROV7668:0 "Pärnu"
+ PROV7669:0 "Haapsalu"
+ PROV7670:0 "Tallinn"
+ PROV7671:0 "Rakvere"
+ PROV7672:0 "Jõhvi"
+ PROV7673:0 "Rapla"
+ PROV7674:0 "Paide"
+ PROV7675:0 "Vijandi"
+ PROV7676:0 "Jõgeva"
+ PROV7677:0 "Tartu"
+ PROV7678:0 "Valga"
+ PROV7679:0 "Põlva"
+ PROV7680:0 "Võru"
+
  PROV7517_aksumite_group:0 "Olbia"
  PROV84_carthaginian:0 "Beerot"
  PROV91_carthaginian:0 "Herakleia Minoa"

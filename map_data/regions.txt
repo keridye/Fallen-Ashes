@@ -919,3 +919,9 @@ scandinavia_region = {		#7 areas
 		ultima_thule_area
 	}
 }
+
+baltic_region = {
+	areas = {
+		estonia_area
+	}
+}

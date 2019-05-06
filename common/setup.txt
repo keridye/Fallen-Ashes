@@ -97,7 +97,6 @@ diplomacy = {
 	#Crete
 	alliance = { first = LYT second = IEP }
 	dependency = { first = GRT second = TRA subject_type = feudatory }
-	alliance = { first = KNO second = PRE }
 	
 	#Histria
 	alliance = { first = ISO second = MLO }
@@ -11126,31 +11125,6 @@ country = {
 			
 		}
 		
-		INM = {
-			government = tribal_kingdom
-			primary_culture = ligurian
-			religion = roman_pantheon
-
-			capital = 3545
-		
-			own_control_core = 	{
-				3545 3544
-			}
-			
-		}
-		
-		IGN = {
-			government = tribal_kingdom
-			primary_culture = ligurian
-			religion = roman_pantheon
-
-			capital = 3546
-		
-			own_control_core = 	{
-				3546 3547
-			}
-		}
-		
 		GUN = {
 			government = tribal_kingdom
 			primary_culture = ligurian
@@ -13901,18 +13875,6 @@ country = {
 			
 		}
 		
-		PRE = {
-			government = plutocratic_republic
-			primary_culture = cretan
-			religion = roman_pantheon
-			
-			capital = 344
-			own_control_core = 	{
-				344
-			}
-			
-		}
-		
 		#Anatolia
 		
 		MLO = {
@@ -16142,36 +16104,12 @@ country = {
 			capital = 2034
 			
 			own_control_core = {
-				2034 2051 2052 2030 2034 2044
+				2034 2051 2052 2030 2044
 			}
 		}
 
 		# Scotland
 		
-
-		ABE = {
-			government = tribal_chiefdom
-			primary_culture = irish
-			religion = carthaginian_pantheon
-			
-			capital = 2116
-			
-			own_control_core = {
-				2116 2125 2133 2123
-			}
-		}		
-
-		ABE = {
-			government = tribal_chiefdom
-			primary_culture = irish
-			religion = carthaginian_pantheon
-			
-			capital = 2116
-			
-			own_control_core = {
-				2116 2125 2133 2123
-			}
-		}		
 
 		ABE = {
 			government = tribal_chiefdom
@@ -16256,10 +16194,92 @@ country = {
 			capital = 2152
 			
 			own_control_core = {
-				2151 2152 2155 2160 2150 2155 2154 2158 2159 2148 2000 2002 2229
+				2151 2152 2155 2160 2150 2154 2158 2159 
+				2148 2000 2002 2229 2149 2153 2232 1017 1078
 			}
 		}		
 		
+		BRE = {
+			government = tribal_chiefdom
+			primary_culture = gallo
+			religion = carthaginian_pantheon
+			
+			capital = 2143
+			
+			own_control_core = {
+				2156 2146 2142 2157 2141 2145 2143 2147
+				2215 2144 2209
+			}
+		}		
+		
+		PRS = {
+			government = tribal_chiefdom
+			primary_culture = parisian
+			religion = carthaginian_pantheon
+			
+			capital = 2475
+			
+			own_control_core = {
+				2475 2444 2486 2483 2481 2477 2474
+			}
+		}		
+		
+		NOR = {
+			government = tribal_chiefdom
+			primary_culture = norman
+			religion = carthaginian_pantheon
+			
+			capital = 2218
+			
+			own_control_core = {
+				2218 2138 2220 2221 2219 2222 2223 2467 
+				2466 2465 2464 2219 2463
+			}
+		}
+		
+		MNC = {
+			government = tribal_chiefdom
+			primary_culture = norman
+			religion = carthaginian_pantheon
+			
+			capital = 2134
+			
+			own_control_core = {
+				2135 2136 2137 2139 2140 2216
+			}
+		}		
+		
+		SEI = {
+			government = tribal_chiefdom
+			primary_culture = norman
+			religion = carthaginian_pantheon
+			
+			capital = 2468
+			
+			own_control_core = {
+				2468 2470 2471 3033 3034
+			}
+		}		
+		
+		MON = {
+			government = tribal_chiefdom
+			primary_culture = provencal
+			religion = carthaginian_pantheon
+			
+			capital = 3544
+			
+			own_control_core = {
+				3544 3545 3546 3547 3543 3541 3542 3522 
+				3529 3530 3518
+				#corsica
+				3510 3509 3508 
+				# balearics
+				1466 1465
+			}
+		}
+
+        # Italy
+
 	}
 }
 
