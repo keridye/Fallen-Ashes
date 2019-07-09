@@ -1,0 +1,67 @@
+spanish = {
+	
+	color = hsv { 0.56  0.6  0.65 }
+
+	male_names = {
+		Jack James Noah Conor Daniel Harry Luke Micheal Adam Charlie Liam Thomas Sean Fionn
+	}
+	female_names = {
+		Emily Grace Emma Sophie Amelia Ella Ellie Mia Ava Fiadh Hannah Anna Lucy
+	}
+
+	nickname = {
+		NICKNAME_EPIPHANES
+		NICKNAME_EUERGETES
+		NICKNAME_EUPATOR
+		NICKNAME_EUSEBES
+		NICKNAME_KALLINIKOS
+		NICKNAME_NEOS_DIONYSOS
+		NICKNAME_NIKATOR
+		NICKNAME_PHILADELPHOS
+		NICKNAME_PHILOMETOR
+		NICKNAME_PHILOPATOR
+		NICKNAME_SOTER
+		NICKNAME_THEOS
+		NICKNAME_POLIORCETES
+		NICKNAME_DOSON
+		NICKNAME_GONATAS
+		NICKNAME_KALOS
+	}
+	
+	family = {
+		Smith Brown Wilson MacDonald Campbell Thomson Reid Wilson Murphy Kelly O'Sullivan Walsh Smith
+		O'Brien Byrne Ryan O'Connor
+	}
+	culture = {
+		valencian = {}
+		catalan = {}
+		andalusian = {}
+		galician = {}
+		asturian = {}
+		castillian = {}
+		aragonese = {}
+		madrilenian  = {}
+		extremaduran = {}
+	}
+	
+	barbarian_names = { 
+		# Paeonian Tribes
+		AESTRAEI AGRIANES DERRONES DOBERES LAIAIOUS MYGDONES ODOMANTI PAIOPLAI SIRIOPAIONES TRIBALLI 
+
+		# Illyrian Tribes
+		BARIDUSTAE TARIOTES SELEPITANOI PARTHINI BREUCI PIRUSTAE SARDEATI BYLLIONES BALAITES PARTHENI PEUCETI CINAMBRI DASSARETI PENESTI DEUNI NARENSI CHELIDONI BATHIATAE
+
+		# Thracian Tribes
+		MAEDI PAETI SATRI DERSAEI KORPILOI KORELI NIPSAIOI SAPAIOI SINTEIS MELANOPHAGI MELANDITAE CEBRENII
+
+		# Other
+		PELASGOI
+	}
+	
+	
+	
+	graphical_culture = greek_gfx
+	ethnicities = {
+		10 = celtic
+	}
+}
