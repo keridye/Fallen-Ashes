@@ -48,8 +48,8 @@ From;To;Type;Through;x;y;x;y;
 650;1682;sea;652;-1;-1;-1;-1;Drepanum-Rhaithou
 1987;266;sea;2590;2800;2011;2822;1975;Knidos-Rhodos
 3508;3506;sea;2692;1473;2328;1482;2297;Phikaria-Viniolae
-7199;7202;sea;2813;-1;-1;-1;-1;Gerrha-Tylos
-7202;7203;sea;2813;-1;-1;-1;-1;Tylos-Gylus
+7199;7202;sea;2813;4735;1633;4750;1636;Gerrha-Tylos
+7202;7203;sea;2813;4775;1624;4805;1620;Tylos-Gylus
 7210;4791;sea;2808;5182;1860;5169;1936;HeliosLimen-Hormirzad
 6850;6845;sea;2854;6179;2233;6204;2205;Sura-Bissai
 6856;6825;sea;2855;6308;2281;6287;2269;Vallai-Kanthi
@@ -65,4 +65,39 @@ From;To;Type;Through;x;y;x;y;
 2131;2132;sea;5767;876;3896;878;3914;OuirouedroumAkron-Orcades
 2128;2129;sea;5759;701;3827;700;3861;Scitis-DumnaSeptentrionalis
 2128;2130;sea;5759;693;3818;666;3822;Scitis-DumnaMeridionalis
+2128;2130;sea;5759;693;3818;666;3822;Scitis-DumnaMeridionalis
+3882;3869;sea;5839;1520;3579;1512;3583;Reudinga Maiores-Cobandia Maiores
+5431;2137;sea;5693;823;3057;851;3040;Andion-Cosedia
+### Nile River ###
+509;7688;river_large;7673;3263;1591;3255;1597;Pilousion-Thenessos
+503;507;river_large;7667;3194;1521;3197;1512;Boubastos-Leonton Polis
+504;528;river_large;7676;3176;1551;3167;1549;Leontopolis-Isieion
+503;504;river_large;7670;3196;1532;3193;1535;Boubastis-Leontopolis (North)
+528;527;river_large;7680;3153;1536;3149;1532;Iseion-Atarbechis
+513;514;river_large;7674;3175;1510;3164;1508;Athribis-Nikiou
+7691;530;river_large;7683;3109;1587;3104;1581;Perseos Skope-Bolbitine
+502;655;river_large;7685;3262;1535;3271;1537;Heroopolis-Serapieion
+### Indus River ###
+6821;6822;river_large;7693;6063;2221;6064;2231;Alexandrou Limen-Barbarikon
+7660;4359;river_large;7695;6008;2302;6012;2310;Abad-Samarabriai
+4364;4352;river_large;7699;5941;2456;5951;2455;Oumbrai-Roruka
+4377;4371;river_large;7692;6000;2648;6007;2653;Bisambritai-Alexandreia Indos
+### Ganges River ###
+4440;4443;river_large;7708;7122;3118;7122;3127;Pataliputra-Nadikagama
+7398;7497;river_large;7703;7390;3204;7387;3212;Kushtia-Puthia
+4446;7322;river_large;7706;7259;3218;7255;3225;Campa-Purnia
+7395;7356;river_large;7701;7587;3225;7591;3232;Barisal-Karmanta
+### Gallikos River ###
+428;373;river_large;7709;2396;2310;2404;2313;Aigai-Thessalonike
+### Euphrates & Tigris ###
+968;937;river_large;7718;4238;1899;4235;1908;Eridu-Uruk
+938;940;river_large;7711;4356;1941;4364;1942;Nina-Alexandreia Sousiane
+942;971;river_large;7710;4411;1907;4411;1915;Apologos-Ampe
+934;970;river_large;7712;4306;2002;4311;2008;Madhar-Kashkar
+933;976;river_large;7714;4196;2019;4188;2027;Apameia Tigrei-Lawami
+### Rhine River ###
+3723;3699;river_large;7731;1403;3084;1408;3092;Bingium-Aquae Mattiacorum
+3720;3787;river_large;7728;1357;3155;1361;3159;Bonna-Tenctheria
+3714;3777;river_large;7726;1327;3235;1332;3240;Castra Vetera-Chattuaria
+3849;3848;river_large;7725;1257;3265;1258;3272;Manaritum-Traiectum
 -1;-1;;-1;-1

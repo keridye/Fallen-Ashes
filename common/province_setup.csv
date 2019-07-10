@@ -1,12 +1,12 @@
 #ProvID; Culture; Religion; TradeGoods; Citizens; Freedmen; Slaves; Tribesmen; Civilization; Barbarian; NameRef;AraRef
-1,roman,roman_pantheon,cloth,21,15,,3,40,0,Roma,Latium
+1,roman,roman_pantheon,cloth,21,15,4,3,40,0,Roma,Latium
 2,roman,roman_pantheon,wine,7,8,6,0,40,0,Tibur,Latium
 3,roman,roman_pantheon,salt,8,8,3,0,40,0,Lavinium,Latium
 4,roman,roman_pantheon,wood,8,8,5,0,40,0,Circeii,Latium
 5,roman,roman_pantheon,cloth,8,8,6,0,40,0,Fundi,Latium
 6,roman,roman_pantheon,wine,7,7,6,0,40,0,Capua,Campania
 7,samnite,roman_pantheon,wood,3,6,3,2,30,0,Nabeul‎,Campania
-8,samnite,roman_pantheon,cloth,3,4,3,1,30,0,Saticula,Campania
+8,samnite,roman_pantheon,cloth,7,7,5,0,40,0,Saticula,Campania
 9,samnite,roman_pantheon,wine,3,5,3,1,30,0,Pompeii,Campania
 10,samnite,roman_pantheon,olive,4,4,3,0,30,0,Irna,Lucania
 11,lucanian,roman_pantheon,wood,2,3,5,2,40,0,Paestum,Lucania
@@ -29,20 +29,20 @@
 28,samnite,roman_pantheon,wine,3,2,5,1,30,0,Corfinium,Aternum
 29,samnite,roman_pantheon,salt,6,2,3,8,30,0,Histonium,Aternum
 30,roman,roman_pantheon,wood,5,4,2,1,40,0,Aufidena,Aternum
-31,roman,roman_pantheon,wood,7,7,5,0,40,0,Venafrum,Campania
-32,samnite,roman_pantheon,cattle,2,2,3,2,30,0,Bovianum,Campania
+31,roman,roman_pantheon,wood,3,4,3,1,30,0,Venafrum,Campania
+32,samnite,roman_pantheon,horses,2,2,3,2,30,0,Bovianum,Campania
 33,samnite,roman_pantheon,wine,6,2,8,4,30,0,Corneliani,Campania
 34,samnite,roman_pantheon,fur,4,2,3,2,30,0,Iuvanum,Aternum
 35,samnite,roman_pantheon,olive,4,1,3,2,30,0,Buca,Aternum
 36,messapian,roman_pantheon,wine,2,2,3,3,40,0,Teanum Apulum,Apulia
 37,messapian,roman_pantheon,cattle,1,2,5,1,40,0,Luceria,Apulia
-38,messapian,roman_pantheon,wine,3,2,3,4,40,0,Sipious,Apulia
+38,syracusan,roman_pantheon,wine,3,1,1,1,40,0,Sipious,Apulia
 39,messapian,roman_pantheon,hemp,4,2,5,1,40,0,Canusium,Apulia
 40,samnite,roman_pantheon,hemp,5,2,6,0,30,0,Nola,Campania
 41,samnite,roman_pantheon,fur,4,2,3,2,30,0,Beneventum,Campania
 42,messapian,roman_pantheon,wine,6,0,5,2,40,0,Venusia,Apulia
 43,samnite,roman_pantheon,olive,4,2,4,3,30,0,Compsa,Lucania
-44,messapian,roman_pantheon,vegetables,3,2,4,4,40,0,Tuticum,Apulia
+44,messapian,roman_pantheon,hemp,3,2,4,4,40,0,Tuticum,Apulia
 45,messapian,roman_pantheon,cattle,4,2,3,5,40,0,Ausculum,Apulia
 46,samnite,roman_pantheon,fur,5,2,3,2,30,0,Potentia,Lucania
 47,lucanian,roman_pantheon,wine,3,2,4,8,40,0,Volcei,Lucania
@@ -53,20 +53,20 @@
 52,syracusan,roman_pantheon,wine,8,3,4,5,40,0,Thourioi,Calabria
 53,lucanian,roman_pantheon,cattle,2,2,2,1,40,0,Grumentum,Lucania
 54,syracusan,roman_pantheon,grain,5,2,2,2,40,0,Herakleia,Lucania
-55,syracusan,roman_pantheon,vegetables,6,2,3,1,40,0,Metapontion,Taranto
-56,syracusan,roman_pantheon,fish,7,2,2,2,40,0,Taras,Taranto
-57,messapian,roman_pantheon,olive,3,2,2,4,40,0,Brundisium,Taranto
+55,syracusan,roman_pantheon,vegetables,6,2,3,1,40,0,Metapontion,Tarentum
+56,syracusan,roman_pantheon,horses,7,2,2,2,40,0,Taras,Tarentum
+57,messapian,roman_pantheon,olive,3,2,2,4,40,0,Brundisium,Tarentum
 58,messapian,roman_pantheon,hemp,3,2,3,6,40,0,Barduli,Apulia
 59,lucanian,roman_pantheon,cloth,4,2,4,6,40,0,Consilinum,Lucania
 60,messapian,roman_pantheon,olive,4,2,5,6,40,0,Bantia,Apulia
 61,lucanian,roman_pantheon,hemp,4,2,3,3,40,0,Siris,Lucania
-62,messapian,roman_pantheon,salt,4,2,5,5,40,0,Menturia,Taranto
-63,messapian,roman_pantheon,fish,4,2,6,6,40,0,Callipolis,Taranto
-64,messapian,roman_pantheon,earthware,5,3,5,3,40,0,Hydruntum,Taranto
-65,messapian,roman_pantheon,fish,3,2,5,4,40,0,Lupiae,Taranto
-66,messapian,roman_pantheon,grain,4,3,5,6,40,0,Barium,Taranto
-67,messapian,roman_pantheon,olive,4,2,3,5,40,0,Gnatia,Taranto
-68,messapian,roman_pantheon,vegetables,3,3,5,4,40,0,Turum,Taranto
+62,messapian,roman_pantheon,salt,4,2,5,5,40,0,Menturia,Tarentum
+63,messapian,roman_pantheon,fish,4,2,6,6,40,0,Callipolis,Tarentum
+64,messapian,roman_pantheon,earthware,5,3,5,3,40,0,Hydruntum,Tarentum
+65,messapian,roman_pantheon,fish,3,2,5,4,40,0,Lupiae,Tarentum
+66,messapian,roman_pantheon,grain,4,3,5,6,40,0,Barium,Tarentum
+67,messapian,roman_pantheon,olive,4,2,3,5,40,0,Gnatia,Tarentum
+68,messapian,roman_pantheon,vegetables,3,3,5,4,40,0,Turum,Tarentum
 69,messapian,roman_pantheon,fish,4,1,5,4,40,0,Natiolum,Apulia
 70,messapian,roman_pantheon,grain,3,2,5,3,40,0,Silvium,Apulia
 71,lucanian,roman_pantheon,cattle,3,2,3,7,40,0,Stiglianum,Lucania
@@ -6418,7 +6418,7 @@
 6417,,,,0,0,0,0,0,0,,
 6418,,,,0,0,0,0,0,0,,
 6419,,,,0,0,0,0,0,0,,
-6420,,,,0,0,0,0,0,0,,
+6420,cappadocian,anatolian_religion,iron,0,6,2,6,25,0,Eulepa,Cappadocia
 6421,,,,0,0,0,0,0,0,,
 6422,,,,0,0,0,0,0,0,,
 6423,,,,0,0,0,0,0,0,,
@@ -6429,9 +6429,9 @@
 6428,,,,0,0,0,0,0,0,,
 6429,,,,0,0,0,0,0,0,,
 6430,,,,0,0,0,0,0,0,,
-6431,,,,0,0,0,0,0,0,,
+6431,cypriot,roman_pantheon,wood,4,1,3,0,40,0,Palaipaphos,Cyprus
 6432,,,,0,0,0,0,0,0,,
-6433,,,,0,0,0,0,0,0,,
+6433,cypriot,roman_pantheon,olive,4,1,6,0,40,0,Chythroi,Cyprus
 6434,,,,0,0,0,0,0,0,,
 6435,,,,0,0,0,0,0,0,,
 6436,,,,0,0,0,0,0,0,,
@@ -7664,18 +7664,36 @@
 7663,,,,0,0,0,0,0,0,,
 7664,,,,0,0,0,0,0,0,,
 7665,,,,0,0,0,0,0,0,Lacus Ligustinus,
-7666,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Saaremaa,Estonia
-7667,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Hiumaa,Estonia
-7668,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Parnu,Estonia
-7669,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Haapsalu,Estonia
-7670,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Tallinn,Estonia
-7671,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Rakvere,Estonia
-7672,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Johvi,Estonia
-7673,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Rapla,Estonia
-7674,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Paide,Estonia
-7675,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Vijandi,Estonia
-7676,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Jogeva,Estonia
-7677,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Tartu,Estonia
-7678,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Valga,Estonia
-7679,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Polva,Estonia
-7680,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Voru,Estonia
+7666,,,,0,0,0,0,0,0,,
+7667,,,,0,0,0,0,0,0,,
+7668,egyptian,egyptian_pantheon,earthware,4,4,7,0,30,0,Bilbeis,Memphis
+7688,egyptian,egyptian_pantheon,cloth,4,5,7,0,35,0,Thenessos,Eastern Delta
+7689,egyptian,egyptian_pantheon,grain,5,3,6,0,40,0,Hermopolis,Central Delta
+7690,egyptian,egyptian_pantheon,grain,4,4,5,0,40,0,Tamiathis,Central Delta
+7691,egyptian,egyptian_pantheon,grain,2,2,10,0,40,0,Perseos Skope,Western Delta
+7723,babylonian,mesopotamian_religion,dates,5,4,9,0,40,0,Durum,Sumer
+7732,treverian,druidism,leather,0,1,0,3,10,0,Vicus Augustanus,Vangionia
+7733,samnite,roman_pantheon,,0,0,0,0,55,0,,
+7734,peloponnesian,roman_pantheon,,0,0,0,0,55,0,,
+7735,lycaonian,anatolian_religion,,0,0,0,0,55,0,,
+7736,qedarite,arabian_pantheon,,0,0,0,0,55,0,,
+7737,armenian,armenian_religion,,0,0,0,0,55,0,,
+7738,treverian,druidism,stone,0,1,0,2,15,0,Remagus,Treveria
+
+#Estonia
+
+7739,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Saaremaa,Estonia
+7740,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Hiumaa,Estonia
+7741,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Parnu,Estonia
+7742,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Haapsalu,Estonia
+7743,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Tallinn,Estonia
+7744,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Rakvere,Estonia
+7745,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Johvi,Estonia
+7746,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Rapla,Estonia
+7747,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Paide,Estonia
+7748,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Vijandi,Estonia
+7749,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Jogeva,Estonia
+7750,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Tartu,Estonia
+7751,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Valga,Estonia
+7752,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Polva,Estonia
+7753,estonian,indo_iranian_religion,grain,1,1,1,1,20,0,Voru,Estonia
