@@ -406,7 +406,9 @@ sirdarya_area = { #10
 }
 
 jaxartia_area = { #12
-	provinces = { 7274 7275 7245 7263 7264 7267 7276 7268 7270 7273 7277 7278 }
+	provinces = { 7274 7275 7245 7263 7264 7267 7276 7268 7270 7273 7277 7278 
+		7272 7269 7262 7261 7251 7250 7249 7248 7247 7246 # Uninhabitables
+	}
 }
 
 #Mesopotamia
@@ -437,7 +439,9 @@ babylonia_area = { #12
 }
 
 veh_kavad_area = { #12
-	provinces = { 920 921 923 930 931 932 935 936 939 937 968 7723 }
+	provinces = { 920 921 923 930 931 932 935 936 939 937 968 7723 
+		7567 7566 # Uninhabitables
+	}
 }
 
 beth_daraye_area = { #12
@@ -445,7 +449,9 @@ beth_daraye_area = { #12
 }
 
 meshan_area = { #10
-	provinces = { 940 941 942 944 963 964 965 969 971 938 }
+	provinces = { 940 941 942 944 963 964 965 969 971 938 
+		5399 5400 5401 # Uninhabitables
+	}
 }
 
 pars_area = { #11
@@ -511,7 +517,9 @@ palmyra_area = { #12
 }
 
 decapolis_area = { #13
-	provinces = { 673 675 718 721 722 723 732 733 734 735 736 737 739 }
+	provinces = { 673 675 718 721 722 723 732 733 734 735 736 737 739 
+		7554 7555 # Uninhabitables
+	}
 }
 
 samaria_area = {	#10
@@ -983,7 +991,9 @@ scythia_ultima_area = { #12
 }
 
 scythia_prima_area = { #12
-	provinces = { 5476 5477 5480 5481 5479 5483 5484 5482 5486 5485 5487 5488 }
+	provinces = { 5476 5477 5480 5481 5479 5483 5484 5482 5486 5485 5487 5488 
+		7260 7259 7258 7257 7256 7255 7252 7253 7254 # Uninhabitables
+	}
 }
 
 sarmatia_hyrcania_area = { #10
@@ -1660,7 +1670,9 @@ arabia_deserta_area = { #10
 }
 
 dedan_area = { #13
-	provinces = { 4605 4607 4609 4715 4615 4714 4716 4717 4718 4721 7559 7560  }
+	provinces = { 4605 4607 4609 4715 4615 4714 4716 4717 4718 4721 7559 7560 
+		7558 7557 7556 7561 7562 7563 7564 7565 # Uninhabitables
+	}
 }
 
 arabia_maritimae_area = { #11
@@ -1692,7 +1704,9 @@ hadramut_occidentalis_area = { #10
 }
 
 hadramut_orientalis_area = { #7
-	provinces = { 4703 4704 4705 4706 4708 4707 4709 }
+	provinces = { 4703 4704 4705 4706 4708 4707 4709 
+		7568 7569 7570 7571 # Uninhabitables
+	}
 }
 
 #Northern India
@@ -1993,15 +2007,21 @@ south_tarim_area = { #8
 }
 
 omana_area = { #10
-	provinces = { 7207 7211 5415 5430 5429 7210 7208 5416 5417 7209 7206 7205 }
+	provinces = { 7207 7211 5415 5430 5429 7210 7208 5416 5417 7209 7206 7205 
+		5411 5412 5413 # Uninhabitables
+	}
 }
 
 east_omana_area = { #10 +1
-	provinces = { 7213 5418 7212 5419 5420 7215 5421 7214 7217 7216 }
+	provinces = { 7213 5418 7212 5419 5420 7215 5421 7214 7217 7216 
+		7573 7572 # Uninhabitables
+	}
 }
 
 gerrha_area = { #12
-	provinces = { 7196 7197 7198 7199 7200 7202 7201 7203 7204 5410 5409 5408 }
+	provinces = { 7196 7197 7198 7199 7200 7202 7201 7203 7204 5410 5409 5408 
+		5402 5403 5404 5405 5406 # Uninhabitables
+	}
 }
 
 north_nubia_area = { #12
