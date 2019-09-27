@@ -176,8 +176,6 @@ BMB = "countries/syria/bambyce.txt"
 
 # Italic
 
-ROM = "countries/italia/rome.txt"
-SAM = "countries/italia/samnium.txt"
 ETR = "countries/italia/etruscia.txt"
 UMB = "countries/italia/umbria.txt"
 PIE = "countries/italia/picentes.txt"

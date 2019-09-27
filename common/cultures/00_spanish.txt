@@ -1,4 +1,4 @@
-spanish = {
+﻿spanish = {
 	
 	color = hsv { 0.56  0.6  0.65 }
 
@@ -37,7 +37,6 @@ spanish = {
 		catalan = {}
 		andalusian = {}
 		galician = {}
-		asturian = {}
 		castillian = {}
 		aragonese = {}
 		madrilenian  = {}

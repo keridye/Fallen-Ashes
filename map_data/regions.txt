@@ -920,8 +920,107 @@ scandinavia_region = {		#7 areas
 	}
 }
 
+#Baltics
+
 baltic_region = {
 	areas = {
 		estonia_area
 	}
+}
+
+#Sea regions:			 
+
+atlantic_region = {
+	areas = {
+		north_sea_area
+		mare_germanicum_area
+		mare_britannicum_area
+		mare_hibernicum_area
+		oceanus_atlanticus_area
+		mare_catabricum_area
+		mare_verginium_area
+	}
+}
+
+baltic_sea_region = {
+	areas = {
+		oceanus_sarmaticus_area
+	}
+}
+
+mediterranean_region = {
+	areas = {
+		mare_aegyptum_area
+		mare_aegaeum_area
+		mare_creticum_area
+		mare_lycium_area
+		mare_phoenicium_area
+		mare_adriaticum_area
+		mare_ionium_area
+		mare_libycum_area
+		canalis_sicium_area
+		mare_tyrrenum_area
+		mare_ligusticum_area
+		mare_sardonium_area
+		sinus_gallicus_area
+		mare_balearicum_area
+		mare_ibericum_area
+	}
+}
+
+pontus_region = {
+	areas = {
+		pontus_euxinus_area
+		palus_maeotis_area
+		helespontine_area
+	}
+}
+
+persian_gulf_region = {
+	areas = {
+		sinus_persicus_area
+	}
+}
+
+red_sea_region = {
+	areas = {
+		sinus_arabicus_area
+	}	
+}
+
+indian_ocean_region = {
+	areas = {
+		sinus_adenensis_area
+		mare_erythraeum_area
+		mare_gangeticus_area
+	}
+}
+
+nile_region = {
+	areas = {
+		nile_river_area
+	}
+}
+
+mesopotamia_river_region = {
+	areas = {
+		mesopotamia_river_area
+	}
+}
+
+indo_gangetic_region = {
+	areas = {
+		indus_river_area
+		ganges_river_area
+	}
+}
+
+rhine_region = {
+	areas = {
+		rhine_river_area
+	}
+}
+
+greek_river_region = {
+	areas = { gallikos_river_area }
 }

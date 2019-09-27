@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="379" xOffset="0" scrollWidth="1677" startPos="25741" endPos="25741" selMode="0" lang="Normal Text" encoding="-1" userReadOnly="no" filename="D:\Users\blackorange\Documents\Paradox Interactive\Imperator\mod\Fallen Ashes\common\province_setup.csv" backupFilePath="" originalFileLastModifTimestamp="-1395517575" originalFileLastModifTimestampHigh="30750552" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1049662960" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </mainView>
+        <subView activeIndex="0">
+            <File firstVisibleLine="234" xOffset="20" scrollWidth="2232" startPos="22257" endPos="22257" selMode="0" lang="Normal Text" encoding="-1" userReadOnly="no" filename="D:\Users\blackorange\Desktop\New folder (2)\error.log" backupFilePath="" originalFileLastModifTimestamp="1323214654" originalFileLastModifTimestampHigh="30766034" mapFirstVisibleDisplayLine="-1" mapFirstVisibleDocLine="-1" mapLastVisibleDocLine="-1" mapNbLine="-1" mapHigherPos="-1" mapWidth="-1" mapHeight="-1" mapKByteInDoc="1141817344" mapWrapIndentMode="-1" mapIsWrap="no" />
+        </subView>
+    </Session>
+</NotepadPlus>

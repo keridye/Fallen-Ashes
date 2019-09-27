@@ -1,4 +1,4 @@
-southslavic = {
+﻿southslavic = {
 	
 	color = hsv { 0.56  0.6  0.65 }
 
@@ -36,7 +36,6 @@ southslavic = {
 		montenegrin = {}
 		serbian = {}
 		croatian = {}
-		galician = {}
 		slovenian = {}
 	}
 	

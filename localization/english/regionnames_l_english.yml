@@ -18,7 +18,7 @@
  asculum_area:0 "Picenum"
  pisae_area:0 "Pisae"
  ariminum_area:0 "Ariminum"
- neapolis‎_area:0 "Campania"
+ neapolis_area:0 "Campania"
  cannae_area:0 "Apulia"
  liguria_area:0 "Liguria"
  heraclea_area:0 "Lucania"
@@ -548,13 +548,9 @@
  alania_proper_area:0 "Alania"
  alania_orientalis_area:0 "Alania Orientalis"
  transhyrcania_area:0 "Transhyrcania"
- 
  #Estonia
- 
  estonia_area:0 "Estonia"
- 
  #Water
- 
  north_sea_area:0 "Mare Septentrionalis"
  mare_germanicum_area:0 "Mare Germanicum"
  oceanus_sarmaticus_area:0 "Oceanus Sarmaticus"
@@ -603,4 +599,4 @@
  mesopotamia_river_region:0 "Mesopotamian Rivers"
  indo_gangetic_region:0 "Indian Rivers"
  rhine_region:1 "Rhenus"
- greek_river_region:0 "Greek Rivers"						
+ greek_river_region:0 "Greek Rivers"
